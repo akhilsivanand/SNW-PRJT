@@ -249,9 +249,6 @@ resolution : Completed successfuly",AZ Technology, SAS Service Requests
 INC3312773,Changing the supervisor of TU ids,AZTEC.GAP.PAAS-SAS-CL-2ND,"GIAM Team updated the Supervisor names for the TU ids.
 Ref: INC3312875",AZ Technology, SAS Service Requests
 INC3150343,REQ0720554 - Request is not completed  - Closed Incomplete,AZTEC.GAP.PAAS-SAS-CL-2ND,The second request was successful,AZ Technology, SAS Service Requests
-INC4220362,FM AGCS PROD migration from FM 5.5 to FM 5.6 / UC4 Jobs ,AZTEC.GAP.PAAS-SAS-CL-2ND,"Description : FM AGCS PROD migration from FM 5.5 to FM 5.6 / UC4 Jobs 
-Type : service request
-Resolution : The jobs has been scheduled..",AZ France, SAS UC4 Job Creation
 INC3920932,Data restore,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident type : restore request
 resolution : Files has been restored",AZ Germany, SAS Service Requests
 INC3669345,Disable the UC4 jobs in Development and Integration,AZTEC.GAP.PAAS-SAS-CL-2ND,We have raised a service request REQ0975449  for this. ,AZ Technology, SAS -   UC4  Job Issues
@@ -274,12 +271,6 @@ INC4531227,(R) on SAS ENTERPRISE GUIDE 8 the RUN key is sandblasted,AZTEC.GAP.PA
 Description : User was not able to connect to SAS connection profile.
 Solution : We have provided required access previledges to user to connect SAS profile.",AZ Technology, SAS AVC Client Issue
 INC3092028,SAS Enterprise Guide: Unable to access,CSC.WPS.AVC-CLIENT,,AZ UK, SAS Access Issue
-INC4729786,Win10 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,"IT: SAS application issue.
-D: SAS Anwendungen - Informationen
-R: IBM NAS Team worked on INC4719837 P2 for AZD Production Server deadlock issue. Deadlock is broken by NAS team and now AZD Prod is working fine now.
-
-No response recevied from user yet. Hope the issue is resolved from your end and we are closing the ticket. Please raise a new ticket if you still face issue.",AZ Germany, SAS Portal issue
-INC3216921,Win10 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,The issue has been resolved,AZ Germany, SAS AVC Client Issue
 INC2681375,user can have access to AVC Bifi,AZTEC.GAP.PAAS-SAS-CL-2ND,"The user is now able to log in to SAS. Upon user confirmation, we are closing this ticket.",AZ Germany, SAS Access Issue
 INC3045752,SGRID_BIEC_SYST is down,AZTEC.GAP.PAAS-SAS-CL-2ND,"Dear Team,
 We're checking with 3rd level team on this,Ref: INC2926721.
@@ -288,10 +279,6 @@ So please give us some time to bring up them, until then we're closing this tick
 Thank you.
 Regards
 D Srinivasulu",AZ Germany, SAS Server Issue
-INC4370167,Win10 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,"Description
- : SAS error
-Issue: access isssue
-Resolution : advised the user to contact legba for required rights",AZ Germany, SAS AVC Client Issue
 INC3246273,Reset SAS appsence profile for the user G113876,AZTEC.GAP.PAAS-SAS-CL-2ND,"Due to change on Citrix end some issue with users personalized settings and it is resolved by Citrix team.
 
 User confirmed that he is able to view the SAS connection profile for AMOs.",AZ Germany, SAS AVC Client Issue
@@ -318,7 +305,7 @@ D Srinivauslu
 INC3445564,SAS EG 7.1 user access,AZTEC.GAP.PAAS-SAS-CL-2ND,The issue occurred due to a mistype from the user. Now the issue is resolved,AZ Reinsurance, SAS Access Issue
 INC2608107,execution of ETLs on DI-STudio on DEV not possible,AZTEC.GAP.PAAS-SAS-CL-2ND,"User solved the issue by himself. Asked us to close the ticket.
 ",AZ Germany, SAS Platform Access/Availability
-INC2833246,Please enter the tnsnames.ora-entry in the work notes into the tnsnames.ora of SAS-BIFI of the project redwh in both DEV and SI,AZTEC.GAP.PAAS-SAS-CL-2ND,The entries were made as per user request and we are closing the ticket as per user confirmation,AZ Germany, SAS Service Requests
+INC2833246,Please enter the tnsnames.ora-entry in the work notes into the tnsnames.ora of SAS-BIFI of the project redwh in both DEV and SI,AZTEC.GAP.PAAS-SAS-CL-2ND,The entries were made as per user request and we are closing the ticket as per user confirmation,AZ Germany, SAS Database
 INC4686525,Please enter in the tnsnames.ora for the SAS-project redwh on INT the following entry that I entered in the comment field,AZTEC.GAP.PAAS-SAS-CL-2ND,"Des:Please enter in the tnsnames.ora for the SAS-project redwh on INT the following entry that I entered in the comment field
 Tyep: SR
 Res: request completed",AZ Reinsurance, SAS Database
@@ -386,7 +373,7 @@ Resolution : Incident closed as requested by the user",AZ Benelux, SAS Filesyste
 INC4761837,SR: Delete objects on kfrar012.srv.allianz,AZTEC.GAP.PAAS-SAS-CL-2ND,"Description: SR: Delete objects on kfrar012.srv.allianz
 Issue Type: SAS Service Request.
 Resolution: As requested , we have deleted sqlldr directory under /var/opt/data/data_project/fraudazd/data. User has confirmed to close the incident.",AZ Germany, SAS Service Requests
-INC3200038,Add entries to tnsnames.ora,AZTEC.GAP.PAAS-SAS-CL-2ND,The request has been completed,AZ Germany, SAS Service Requests
+INC3200038,Add entries to tnsnames.ora,AZTEC.GAP.PAAS-SAS-CL-2ND,The request has been completed,AZ Germany, SAS Database
 INC3692156,Configuration of Oracle services in the TNS names file,AZTEC.GAP.PAAS-SAS-CL-2ND,"Description: New Entry to be added in tnsname file.
 
 Incident Type: SAS Database.
@@ -468,35 +455,6 @@ User confirmed to close the ticket (email attached).",AZ Germany, SAS Filesystem
 INC3823785,SAS Anwendung Operative Steuerung Start fehler,AZTEC.GAP.PAAS-SAS-CL-2ND,"Issue Description: opsteu application stuck on initialization on Prod environment.
 Issue Type: SAS Server issue
 Resolution Steps: File system, which was incorrectly mounted was corrected on web sever (kfrar010.srv.allianz ). User was also informed over email after the issue was resolved.",AZ Germany, SAS Performance
-INC2935798,Win7 - SAS Anwendungen,AZD.IT-BVG5.C2,"16.04.2019 10:29:13   ws_hp_spoc
-   (HPINCIDENT)
-Benutzte LDB-ID: 39176
-
-AW meldet: er möchte eine neue Version von SAS Enterprise guide  9.4 M4. Er braucht 9.4 M5.
-
-Bitte weiterhelfen, Danke!
-
-+49 711 663 1389 bis 16:00
--------------------------------------------
-user reports: he would like to have a new version of:SAS Enterprise guide  9.4 M4. He needs the SAS Enterprise guide  9.4 M5.
-
-Please take it over, Thanks!
-
-+49 711 663 1389 until 4pm
-
-betroffene SAS Komponente / affected SAS component:
-betroffene Anwendung/Projekt / affected application or project:
-technischer User / technical user:
-Problembeschreibung / problem description:
-16.04.2019 12:04:53   ws_snow_prod
-   (SNOW) Hi,
-User needs newer version of SAS EG 9.4 M5.
-16.04.2019 21:21:22   g441005
-   SetVersion 20.62.00 zugewiesen mit SAS EG94M5
-18.04.2019 15:05:54   g441005
-   ist lt Prisma installiert
-
-Close",AZ Germany,
 INC2758150,SAS - Sign in to SAS,AZTEC.GAP.PAAS-SAS-CL-2ND,"The Link works for me,
 
 Thank you!
@@ -530,12 +488,11 @@ Resolution Steps: As requested we have enabled the -xcmd option for the projects
 INC3908845,Windows 10 - SAS EG server access,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident type : sas access issue
 Resolution : corrected on webex",AZ Reinsurance, SAS Others
 INC2970960,SAS -  Anwendung startet nicht,AZTEC.GAP.PAAS-SAS-CL-2ND,This was a temporary issue. The issue does not exist anymore. Hence closing the ticket,AZ Germany, SAS Platform Access/Availability
-INC2582772,Win7 - SAS Anwendungen - Enterprise Guide,AZTEC.GAP.PAAS-SAS-CL-2ND,Issue resolved automatically. and no issues reported from user so far hence closing the issue.,AZ Germany, SAS Platform Access/Availability
 INC3813547,SAS - Application Virtualization Fehler - Anwendung startet nicht,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident Description: SAS Portal not opening.
 Incident Type: SAS  Performance issue 
 Resolution steps: We raised P2 ticket with IBM and they resolved the issue. Then we restarted sas services on webapp server and object spwaner based on project on application server and all worked fine.
 Please find the below comments by IBM
-The error is related to change CHG0120556. Due to big workload caused by application recovery group switching was not handled properly by Spectrum Scale. For now the cluster is stable, all filesystems are available",AZ Germany, SAS Platform Access/Availability
+The error is related to change CHG0120556. Due to big workload caused by application recovery group switching was not handled properly by Spectrum Scale. For now the cluster is stable, all filesystems are available",AZ Germany, SAS AVC Client Issue - Vitualization
 INC3872823,Issue in SAS batch process job ,AZTEC.GAP.PAAS-SAS-CL-2ND,"IT: Issue with Batch Jobs
 D: Issue in SAS batch process job 
 R: Jobs ran sucesssfull now. User confirmed to close the tikcet.
@@ -568,11 +525,6 @@ Type : GPFS issue
 Resolution : Fixed by unix team
 ",AZ E1 FRANKFURT, SAS GPFS
 INC3498162,SAS PROD Jobs ,AZTEC.GAP.PAAS-SAS-CL-2ND,"The issue has been resolved. Upon user confirmation, we are closing the ticket",AZ Reinsurance, SAS GPFS
-INC4568674,Win10 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,"As no response received from your end, we hope the issue is resolved. We are closing the ticket for now, please open a new ticket for any further assistance.
-",AZ Germany, SAS Others
-INC3969749,Win7 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident Description:  Cannot access a  oracle table, getting error: ORA-04063
-Incident Type: SAS Other
-Resolution Description: Issue has been resolved. User has confirmed the same over email. ",AZ Germany, SAS Others
 INC2534697,Missing access rights on bish2-sas94-meta-dev.srv.allianz  server,AZTEC.GAP.PAAS-SAS-CL-2ND,"As, per our conversation through jabber you are logging to Metadata. After logging to App you are able to login to the path.
 
 ",AGA Europe, SAS Access Issue
@@ -581,9 +533,6 @@ As per the screen sharing the issue is resolved after removing the folder.
 ",AZ Germany, SAS Others
 INC3481328,Access issue - tdbpc servers,AZTEC.GAP.PAAS-SAS-CL-2ND,Suggestion made,AZ Reinsurance, SAS Access Issue
 INC3615890,Unable to access REF_DE_MAPPING Table in SI,AZTEC.GAP.PAAS-SAS-CL-2ND,Issue is with one only table. Issue is resolved by Christian by update the metadata of the table. ,AZ Reinsurance, SAS Access Issue
-INC2851756,Win7 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,"User was using the wrong URL and provided the correct (below) URL and user was able to access it successfully (email attached).
-
-https://biec.srv.allianz/SASPortal/main.do ",AZ Germany,
 INC4037644,Insufficient space in file WORK.'SASTMP-000000053'n.UTILITY,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident description: Insufficient space in file WORK.'SASTMP-000000053'n.UTILITY
 Incident Type: SAS Space issue
 Resolution Steps: We ran our old work file removal script and the occupied space got cleared. User has also confirmed that  the issue is resolved over email.",AZ Germany, SAS - Space Issue
@@ -648,7 +597,6 @@ Thank you.
 Kind Regards,
 D Srinivasulu
 ",AZ Reinsurance, SAS Access Issue
-INC2635112,Win7 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,"As per the WebEx session, User is using the local SAS EG. We have cleared the cache from the Roaming profile and now user is able to access to the SAS EG. Hence closing the incident.",AZ Germany, SAS Access Issue
 INC3440171,Can't run SAS DI Studio 94M6 on my avc,AZTEC.GAP.PAAS-SAS-CL-2ND,"As per the our call, after the work around user is able to access the SAS DI tool successfully.",AZ Germany, SAS AVC Client Issue
 INC2932160,"e2e alerts for BIEC WRS,TRANSPORT,WRS,PORTAL.",AZTEC.GAP.PAAS-SAS-CL-2ND,"INC2932069 - Server response is very slow on kfrar008 and kfrar009.
 
@@ -670,7 +618,7 @@ We have resolve this issue with the  Ref: INC2915815 .
 Thank you.
 Regards,
 D Srinivasulu",AZ Technology, SAS Grafana Alert
-INC2900308,grafana alert on FMAGCS Int- FM ,AZTEC.GAP.SASFM-2ND,After restart of the complete SAS FM servers the portals are working fine and the issue is resolved.,AZ France,
+INC2900308,grafana alert on FMAGCS Int- FM ,AZTEC.GAP.SASFM-2ND,After restart of the complete SAS FM servers the portals are working fine and the issue is resolved.,AZ France,SAS Grafana Alert
 INC4182259,Admin Rights not correct,AZTEC.GAP.PAAS-SAS-CL-2ND,"Description : Admin Rights not correct
 type : sas access issue
 resolution : User has the required access now",AZ Germany, SAS Access Issue
@@ -683,9 +631,6 @@ R: You have an additional role (Creators) assigned to your Bensl id which Christ
 INC4762068,Grant for writing Reports on SAS DEV,AZTEC.GAP.PAAS-SAS-CL-2ND,"Description: Grant for writing Reports on SAS DEV
 Issue Type: SAS Access Issue
 Resolution :Alex has  an additional role (Creators) assigned to your Bensl id which Christian doesn't have. So we have removed that Creators role for SASCPI PERFMAN, REGTEST and UC4STAT projects from your id now. Alex has confirmed that now it is working fine.",AZ Germany, SAS Access Issue
-INC4431023,SAS Anwendungen - Informationen,AZTEC.GAP.PAAS-SAS-CL-2ND,"Description :Portal not working
-Type: SAS portal issue
-Resolution : Resolved after objectspawner restart",AZ Germany, SAS Platform Access/Availability
 INC2581249,SAS application Owner,AZTEC.GAP.SASFM-2ND,The request has been completed,AZ Germany, SAS Service Requests
 INC2493431,Python 3.6 on SAS App Linux Box,AZTEC.GAP.PAAS-SAS-CL-2ND,"Dear Babos,
 We have received below update from 3rd level engineering team.
@@ -697,9 +642,6 @@ D Srinivasulu
 ",AZ Germany, SAS Service Requests
 INC3543870,SAS emailservers unreachable - loading cannot progress,AZTEC.GAP.PAAS-SAS-CL-2ND,"We haven't receive any response from you regarding the issue, hope the issue is resolved and closing the ticket for now.
 ",AZ Germany, SAS Network Issue
-INC4739598,SAS Anwendungen - Informationen,AZTEC.GAP.PAAS-SAS-CL-2ND,"Desc:SAS Anwendungen - Informationen
-Type: sas cces issue
-Res: Provided guidence to get the user group ",AZ Technology, SAS AVC Client Issue
 INC3883517,File Restoration on BIEC-SG-PROD.SRV.Allianz,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident Type: Service Request
 Resolution  Description: File is restored by Bcakup Team. We have verified the file on server after restoration.",AZ Germany, SAS Service Requests
 INC2516760,Win7 - SAS Enterprise Guide - Keine Verbindung zur Ressource / No connection to,AZTEC.GAP.PAAS-SAS-CL-2ND,"As per call discussion , the user is now  able to access the SAS EG for lpuafk4 project.
@@ -724,22 +666,9 @@ Resolution : Request completed",AZ Germany, SAS Database
 INC4465010,Anpassung tnsnames.ora,AZTEC.GAP.PAAS-SAS-CL-2ND,"Description: add tns names
 description : SR
 Resolution : Request completed",AZ Germany, SAS Database
-INC2923539,SAS Anwendungen - Informationen,AZTEC.GAP.PAAS-SAS-CL-2ND,"Below user comments: (email attached).
-the problem didn't occur again, maybe it was temporary and is solved.",AZ Germany, SAS Access Issue
-INC2887368,SAS Anwendungen - Letzt verwendete Elemente nicht verfügbar,AZTEC.GAP.PAAS-SAS-CL-2ND,"As per our discussion through WebEx, I could see that SAS EG is opening fine and you are bale to open all the reports.
-
-Issue is we have a new option in WIN10, which we can pin the program  in tool bar. If we are opening the program directly from the toolbar, it is not opening and throwing a error message, This we have to check and test in our next release.
-
-Informed the same to the user. Thanks.",AZ Germany, SAS Others
 INC3541255,SAS - Enterprise Guide Issue,AZTEC.GAP.PAAS-SAS-CL-2ND,"Issue has been resolved after restarting the object spwaner bileben and lares project on Production environment.
 
 User has also confirmed the same over jabber.",AZ Germany, SAS Performance
-INC4582360,SAS Enterprise Guide - COM-Klassenfactory ... konnte nicht abgerufen werden,AZTEC.GAP.PAAS-SAS-CL-2ND,"Description: 
-Type: SAS server issue
-Res: User is able to login after restart",AZ Germany, SAS Server Issue
-INC4385597,SAS Enterprise Guide - COM-Klassenfactory ... konnte nicht abgerufen werden,AZTEC.GAP.PAAS-SAS-CL-2ND,"Description : EG error
-Issue: Access issue
-Resolution : Issue resolved after webex",AZ Germany, SAS Performance
 INC3290958,New aliases have to be created for the new ABS Linux environments,AZTEC.GAP.PAAS-SAS-CL-2ND,Advised user to contact Firewall team to get the connectivity between SAS and aseo0t2r.rt.absee.azt.cloud.allianz.,AZ Germany, SAS Service Requests
 INC3323706,Please add the below entries to your DB2 catalog,AZTEC.GAP.PAAS-SAS-CL-2ND,"As per DB2 suggestions, we have raised the service request to DB2. We will work on these service request. Hence closing this incident.
 
@@ -797,15 +726,10 @@ INC4649158,Portal is not working.,AZTEC.GAP.SASFM-2ND,"Desc:Portal is not workin
 Type: SAS server issue
 Res: Portals are working now",AZ France, SAS Portal issue
 INC4797521,COP Prod: Complete Server Restart every Wednesday until  end of july2020,AZTEC.GAP.SASFM-2ND,"As per the request #INC4797521, we restarted the full FM COP PROD servers successfully for today. Please let us know if any concerns.",AZ France, SAS Service Requests
-INC2561353,Win7 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,"As per user confirmation, the issue is no more exist. (PFA mail confirmation for the same.)",AZ Germany, SAS Performance
-INC4459320,Win10 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,"Description: sas error 
-Type: sas access issue
-Resolution : advised the user to contact legbae",AZ Germany, SAS AVC Client Issue
 INC2720239,Access to listed projects,AZTEC.GAP.PAAS-SAS-CL-2ND,User contacted the application owner for getting required rights.,AZ Benelux, SAS Service Requests
 INC4537030,SAS-Connection timed out,AZTEC.GAP.PAAS-SAS-CL-2ND,"Description : SAS-Connection timed out
 Type: sas server issue
 Resolution : working after objectspawner restart",AZ Germany, SAS Platform Access/Availability
-INC2712431,Win7 - SAS Anwendungen- SQL starten,AZTEC.GAP.PAAS-SAS-CL-2ND,User confirmed that the issue is resolved (email attached).,AZ Germany, SAS Database
 INC2541642,Issu with programm running,AZTEC.GAP.PAAS-SAS-CL-2ND,"Dear Team,
 We found some different environmental setup for INT and DEV that user using custom configuration file that was causing this issue. We requested user to default configuration ""/bishr/agaact/admin/autoexec94.sas"" in order to launch SAS program.
 Issue has been resolved after this and also ""Ekaterina"" shared the possible cause to occur this issue.
@@ -891,9 +815,6 @@ D: Ownership change from x9flor to azbnlp
 R: We have updated the ownership as requested on BIAB PROD server and user confirmed to close the ticket.",AZ Benelux, SAS Access Issue
 INC3273141,AZBNL Closure -ABS SAS application ran last night successfully,AZTEC.GAP.PAAS-SAS-CL-2ND,Done,AZ Benelux, SAS Service Requests
 INC3000413,Question related to SAS user X9FLOR,AZTEC.GAP.PAAS-SAS-CL-2ND,User validated the ownership and confirmed to close the ticket (email attached).,AZ Benelux, SAS Service Requests
-INC3823495,"Win7 - SAS Anwendungen - HO, betroffen mehrere Kollegen (10-11)",AZTEC.GAP.PAAS-SAS-CL-2ND,"Issue Description: Portal issue for opsteu project in production .
-Issue Type: SAS Portal issue.
-Resolution Description: File system, which was incorrectly mounted was corrected on web server (kfrar010.srv.allianz ).User has been informed after over email .",AZ Germany, SAS Performance
 INC3150132,FW: error in Putty,AZTEC.GAP.PAAS-SAS-CL-2ND,As we have advised with the correct scp command user was able to transfer the files successfully (email attached).,AZ Italy, SAS Others
 INC3522567,PRISM SI : 502 Proxy Error,AZTEC.GAP.PAAS-SAS-CL-2ND,User confirmed to close the ticket.,AZ Reinsurance, SAS Platform Access/Availability
 INC3450767,Error During SCP in sas server,AZTEC.GAP.PAAS-SAS-CL-2ND,"Dear Chithra,
@@ -944,10 +865,7 @@ INC4479405,"Please restart object spawner in PROD, project tdbpc.",AZTEC.GAP.PAA
 Issue Type: SAS Server Issue
 Resolution Steps: As requested we have restarted object spawner in PROD, project tdbpc hence closing this ticket.
 ",AZ Reinsurance, SAS Server Issue
-INC3813299,Win7 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,"Issue due to GPFS Panic.
-Resolved after Spawner restart.",AZ Germany, SAS Platform Access/Availability
 INC2568105,SAS - Anwendung startet nicht- application does not start,AZTEC.GAP.PAAS-SAS-CL-2ND,We found that the issue is with the only one particular SAS EG project and other projects are working fine. We have also cleared the cache in the SASGridClient folder in the SAS Roaming profile. Now issue is resolved.  ,AZ Germany, SAS AVC Client Issue
-INC2566824,SAS Anwendungen - Enterprise Guide Fehler,AZTEC.GAP.PAAS-SAS-CL-2ND,"As per the WebEx session , User does not have the SAS EG tool in his local laptop. Guided user to contact his LegBA and local IT support team to re-install the SAS EG tool on users local machine.",AZ Germany, SAS AVC Client Issue
 INC2911827,Win7 - SAS Projekt Anwendungsordner,AZTEC.GAP.PAAS-SAS-CL-2ND,"Dear Biller,
 As per your request, We have added user ""Kathan, Christian"" as an p8kaa application owner for Prod stage only.
 So we're closing this ticket as you accepted over the call.
@@ -970,7 +888,7 @@ INC3488658,no Access to SAS WebReportStudio,AZTEC.GAP.PAAS-SAS-CL-2ND,"Web Repor
 
 User has confirmed the same.",AZ Germany, SAS Portal issue
 INC3009215,SAS-DEV very slow,AZTEC.GAP.PAAS-SAS-CL-2ND,"The issue has been resolved and upon user confirmation, we are closing this ticket",AZ Germany, SAS Performance
-INC3023772,logon on SAS Delivery Portal does not work,AZTEC.GAP.SASFM-2ND,We did a restart for the webapp . The user has confirmed that the portals are working fine now. So we are closing this ticket.,AZ France,
+INC3023772,logon on SAS Delivery Portal does not work,AZTEC.GAP.SASFM-2ND,We did a restart for the webapp . The user has confirmed that the portals are working fine now. So we are closing this ticket.,AZ France,SAS Access Issue
 INC2988835,SAS Delivery Portal not reachable,AZTEC.GAP.PAAS-SAS-CL-2ND,The issue is fixed. Upon user confirmation we are closing this ticket,AZ Germany, SAS Portal issue
 INC3813027,no Access to SAS Web Portal,AZTEC.GAP.PAAS-SAS-CL-2ND,"Description: SAS portal not working 
 Incident Type: SAS Server issue
@@ -999,21 +917,12 @@ INC3569582,Access to Web Report Folder,AZTEC.GAP.PAAS-SAS-CL-2ND,"After assignin
 INC4068888,restore of SAS-Dataset,AZTEC.GAP.PAAS-SAS-CL-2ND,"Description : Restore sas dataset
 Type : restore request
 Resolution : request was completed",AZ Germany, SAS Service Requests
-INC2604972,SAS - Application Virtualization Fehler - Anwendung startet nicht,AZTEC.GAP.PAAS-SAS-CL-2ND,The issue has been resolved after reinstalling SAS EG on the local machine.,AZ Germany, SAS AVC Client Issue
+INC2604972,SAS - Application Virtualization Fehler - Anwendung startet nicht,AZTEC.GAP.PAAS-SAS-CL-2ND,The issue has been resolved after reinstalling SAS EG on the local machine.,AZ Germany, SAS AVC Client Issue - Vitualization
 INC2524564,Master SAS Enterprise Guide - Server konnte nicht abgerufen werden - verdacht au,AZTEC.GAP.PAAS-SAS-CL-2ND,"BISFB Objectspawner was not responding, so we have restarted the service. The issue has been resolved after restarting the bisfb service.",AZ Germany, SAS Platform Access/Availability
 INC4105050,Win10 - SAS Anwendung startet nicht,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident Description: Stored process error for gssach project on AZD Dev.
 Issue Type: SAS Storedprocess issue
 Resolution Description: After restarting object spwaner ,issue has been resolved. User has confirmed the same over jabber.",AZ Germany, SAS Platform Access/Availability
-INC3361474,SAS Anwendungen - Informationen,AZTEC.GAP.PAAS-SAS-CL-2ND,Advised user to contact your local Network team and tell them that the connectivity to the servers (biec-sg-dev.srv.allianz ) from your local desktop machine is not looks good.,AZ Germany, SAS Access Issue
-INC3011735,Win7 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,User confirmed that the server is running fine and the ticket can be closed. (email attached).,AZ Germany, SAS Access Issue
 INC3675923,Win10 - SAS stored process-error,AZTEC.GAP.PAAS-SAS-CL-2ND,Fine,AZ Germany, SAS Server Issue
-INC3065481,2nd strike  Win7 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,"Dear Chris/Lim, 
-As per Phone call discussion that Access issue got resolved except –(Freund, Marc-Hendrik (KVM Service Plus GmbH) marc-hendrik.freund@allianz.de - G129930- Please raise access request for Unix and Metadata ). 
-Also please reach out your hotline to update the SAS9.4M4 application to SAS9.4M5 application to use redundant service. 
-Please reach us if you have any queries on this before closing this ticket. 
-Thank you. 
-Kind Regards, 
-D Srinivasulu",AZ Germany, SAS Access Issue
 INC3126085,SAS-Role KUFEBA - additional Legbas for Center Halle,AZTEC.GAP.PAAS-SAS-CL-2ND,"Dear colleagues,
 the issue ist finally finished.
 I am able to grant access to the mentioned groups.
@@ -1132,7 +1041,7 @@ Please reach us if you have any queries @ PAAS-SAS-CLASSIC-OPERATIONS@allianz.co
 Thank you.
 Kind Regards,
 D Srinivasulu
-",AZ Germany, SAS AVC Client Issue
+",AZ Germany, SAS AVC Client Issue - Vitualization
 INC3552178,The application of SAS GUIDE is frozen regularly whatever the URL use,AZ_FI.SERVICEDESK,Closed by admin as requested in: INC4252499,AZ France, SAS Performance
 INC3534160,/ FR ITSM 2119956 / sas guide freezes by clicking on the file folder .ok for libraries.the post win7 Az remains operational.  anomaly since 2/09/2019,AZTEC.GAP.PAAS-SAS-CL-2ND,"Dear Christophe,
 As per Telephonic discussion that now you're able to view the table from SAS EG.
@@ -1140,10 +1049,6 @@ Please reach out if you have any issue.
 Thank you.
 Regards,
 D Srinivasulu",AZ France, SAS Access Issue
-INC4636916,Win10 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,"IT: Access issue.
-D: Unable to login to base SAS on local laptop.
-R: As per the WebEx session, user is using the base SAS on local laptop machine. We have verifed teh tool SAS EG 7.1 is working fine.
-After some conversation, user realized that she is using wrong password in the base SAS tool. She is using the oracle password instead windows password. She is allowed to close the ticket from our end.",AZ Technology, SAS Access Issue
 INC3562660,Connection problem,AZTEC.GAP.PAAS-SAS-CL-2ND,User confirmed that it is working fine now,AZ Germany, SAS Platform Access/Availability
 INC4511336,File Transfer Protocol (FTP),AZTEC.GAP.PAAS-SAS-CL-2ND,"IT: Issue with WinScp tool.
 D: Issue with WinScp tool during file transfers.
@@ -1160,12 +1065,7 @@ Incident Type : SAS Database
 Solution : As per user request, we have created below libraries on agaglobi2 project. (Stage : INT)  and communicated with user.
 ",AZ Benelux, SAS Database
 INC3928280,Please modify tnsnames ora on PrePROD,AZTEC.GAP.PAAS-SAS-CL-2ND,"Configured required TNS entries.
-All tests were fine from user.",AZ Benelux, SAS Service Requests
-INC2809631,Please create SAS Access Oracle libraries in the metadata server,AZTEC.GAP.PAAS-SAS-CL-2ND,"Dear Team,
-We're closing this ticket as this request has been completed, also we have received final call for the close of this ticket.
-Thank you.
-Regards
-D Srinivasulu",AZ Germany, SAS - library creation
+All tests were fine from user.",AZ Benelux, SAS Database
 INC4356813,"Can You please add me and my colleagues (Laszlo Kozak and Sandor Nemeth) to the ""gdw1glb Developers "" group ?",AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident Description: Can You please add me and my colleagues (Laszlo Kozak and Sandor Nemeth) to the ""gdw1glb Developers "" group 
 Issue Type: SAS Authorization / Access
 Resolution Steps: We have provided access as requested.As discussed with User in jabber closing the ticket.
@@ -1193,9 +1093,6 @@ INC2710315,SAS - Anwendung startet nicht,AZTEC.GAP.PAAS-SAS-CL-2ND,User is using
 INC4728939,Entsperrung - Handling - Oracle (SAS EG),AZTEC.GAP.SASFM-2ND,"IT: DB Access
 D: Issue connection to Oracle DB.
 R: Issue resolved by user.",AZ France, SAS Database
-INC3089503,Win10 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,"Issue is resolved.  User confirmed to close the ticket.
-
-Master ticket: INC3089592",AZ Germany, SAS Server Issue
 INC3914081,Win10 - SAS Enterprise Guide,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident Description: 
 Incident Type:SAS Enterprise Guide issue. Manually pulling in the IMAPS does not work
 Resolution Description: User has confirmed over jabber that now IMPA works fine and the issue is resolved.
@@ -1212,51 +1109,15 @@ Incident Type: SAS  Performance issue
 Resolution Steps:Resolution steps: We raised P2 ticket with IBM and they resolved the issue. Then we restarted sas services on webapp server and object spwaner based on project on application server and all worked fine.
 Please find the below comments by IBM
 The error is related to change CHG0120556. Due to big workload caused by application recovery group switching was not handlet properly by Spectrum Scale. For now the cluster is stable, all filesystems are available",AZ Germany, SAS Platform Access/Availability
-INC3896003,SAS Anwendungen - Informationen,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident type ; access issue
-Resolution : adviced the procedure",AZ Germany, SAS Access Issue
-INC4706055,Win10 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,"IT: Access Issue
-D: Unable to access the reports using SAS AMO Excel
-R:
-As per the WebEx Session, you are able to access the reports after we assigned the below roles temporarily. We are closing the ticket for now please reach us for further issues.
-
-Please reach out one of the application owner to map the below roles to your Bensl-id would be the permanent solution for this issue.
-
-Roles:
-1) smartd7 Users_A ,
-2) smartd7 Reports, 
-3) smartd7 ORA PPR , 
-4) smartd7 WRS PPR Allgemein
-5) smartd7 WRS PPR Standard  
-
-Application Owners for the Smartd7 project:
-
-anwowner USR_NAME DISPLAYNAME ENV_NAME STG_NAME PRJ_NAME
-1 b6380 Sobolewski, Jochen (Allianz Deutschland) AZD_BI Production BI 9.4 BIECP smartd7
-2 dskhtyb Heim, Matthias (Allianz Deutschland) AZD_BI Production BI 9.4 BIECP smartd7
-3 g2737 Klopfers, Andrea (Allianz Deutschland) AZD_BI Production BI 9.4 BIECP smartd7
-4 g2892 Mosbauer, Anselm (Allianz Deutschland) AZD_BI Production BI 9.4 BIECP smartd7
-5 g3376 Engel, Frank (Allianz Deutschland) AZD_BI Production BI 9.4 BIECP smartd7
-6 g8209 Poelsterl, Claudia (Allianz Technology) AZD_BI Production BI 9.4 BIECP smartd7
-7 g9219 Weber, Joerg (Allianz Technology) AZD_BI Production BI 9.4 BIECP smartd7
-8 m2169 Heilmaier, Gerhard (Allianz Deutschland) AZD_BI Production BI 9.4 BIECP smartd7
-9 m9967 Suchy, Stephan (Allianz Deutschland) AZD_BI Production BI 9.4 BIECP smartd7
-10 p066802 Meyer, Volker (Allianz Deutschland) AZD_BI Production BI 9.4 BIECP smartd7
-11 p068939 Tricoire, Jessica (Allianz Deutschland) AZD_BI Production BI 9.4 BIECP smartd7
-",AZ Technology, SAS Access Issue
 INC3359763,SR: Disable Grafana :: SAS Classic PaaS BIFI Platform -  M6 Maintenance Release activity BIRE (E1) - INT,AZTEC.GAP.PAAS-SAS-CL-2ND,"Dear Team,
 Maintenance mode has been scheduled as requested
 
 Thanks",AZ Reinsurance, SAS Service Requests
 INC2893007,Project Details on BIFI E1 and E2,AZTEC.GAP.PAAS-SAS-CL-2ND,Attached the spreadsheet with the list projects on BIFI environment.,AZ Technology, SAS Service Requests
 INC3041465,GPFS Issues / Outages happened in the last six months,AZTEC.GAP.PAAS-SAS-CL-2ND,Provided the list to Jonas.,AZ Technology, SAS Service Requests
-INC4722685,SAS Anwendungen - Informationen,AZTEC.GAP.PAAS-SAS-CL-2ND,"IT: SAS application issue.
-D: SAS Anwendungen - Informationen
-R: IBM NAS Team worked on INC4719837 P2 for AZD Production Server deadlock issue. Deadlock is broken by NAS team and now AZD Prod is working fine now.
-
-No response recevied from user yet. Hope the issue is resolved from your end and we are closing the ticket. Please raise a new ticket if you still face issue.",AZ Germany, SAS Platform Access/Availability
 INC2596446,increase MEMSIZE for SAS-Project,AZTEC.GAP.PAAS-SAS-CL-2ND,"As requested, memsize increased to  2048 MB for FWSID Project on Server biec-sg-prod.srv.allianz.
 
--memsize 2048M",AZ Germany, SAS -Memory
+-memsize 2048M",AZ Germany, SAS Memory
 INC2424144,SAS Portal - Errors and Problems {kk},AZTEC.GAP.PAAS-SAS-CL-2ND,"Ref: INC2423324
 This is a duplicate of above ticket. So we're closing this ticket.
 Thank you.
@@ -1265,27 +1126,19 @@ D Srinivasulu",AZ Germany, SAS Service Requests
 INC2556013,SAS: increase MEMSIZE,AZTEC.GAP.PAAS-SAS-CL-2ND,"As requested, we have update the memsize for the project FWSID on both INT and PROD.  User also confirmed to close the ticket.",AZ Germany, SAS Service Requests
 INC3677142,SAS Enterprise Guide - SQL Datenbank error,AZTEC.GAP.PAAS-SAS-CL-2ND,"Issue type : Access issue
 Resolution : user is not having unix group access or sas eg metadata access..advised user to  contact your legba for unix group access and contact your application owner for getting and GAOEM Enterprise guide access.",AZ Germany, SAS Access Issue
-INC3705567,SAS Anwendungen - Informationen,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident type : Access issue
-Resolution : advised the user to contact application owner to get required rights",AZ Germany, SAS Access Issue
 INC2984303,SAS Portal - Anmeldeproblem,AZTEC.GAP.PAAS-SAS-CL-2ND,We haven't done anything from our end. It's a issue with authentication. Now it is solved confirmed with the user.,AZ Germany, SAS Access Issue
 INC3089618,SAS error when starting program with AVC,CSC.WPS.AVC-CLIENT,,AZ Germany,
 INC3965576, SAS-Auswertung läuft nicht mehr,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident type : sas server issue
 Resolution : ObjectSpawner was restarted",AZ Germany, SAS Platform Access/Availability
-INC4425449,Win10 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,"Description:;SAS Error
-Type: SAS others
-Resolution: Solved after webex session",AZ Germany, SAS Platform Access/Availability
 INC3250714,SAS E. Guide start EM,AZTEC.GAP.PAAS-SAS-CL-2ND,"Issue resolved after reinstallation of package.
 
 Thanks.",AZ Germany, SAS Platform Access/Availability
 INC3670028,SAS Fehler,AZTEC.GAP.PAAS-SAS-CL-2ND,"As per user confirmation, the issue has been resolved, so we are closing the ticket as of now.",AZ Germany, SAS Others
-INC3937022,SAS Anwendungen profile missing,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident Description: SAS Connection profiles are missing in SAS enterprise Guide
-Issue Type: SAS enterprise Guide Issue
-Resolution Description: As discussed over  web-ex , now the connection  profiles are available and user can connect successfully.",AZ Germany, SAS Access Issue
 INC3108814,SAS issue - user cannot open a link ,AZTEC.GAP.PAAS-SAS-CL-2ND,Communication with the user was not possible by phone and email,AZ Benelux, SAS Platform Access/Availability
 INC4187452,Controlling Platform - Connexion is not available in PROD,AZTEC.GAP.SASFM-2ND,"Description : Controlling Platform - Connecton is not available in PROD
 Type : Sas Server issue
 Resolution : Services are up after restart",AZ France, SAS Platform Access/Availability
-INC2963699,SAS - Application Virtualization Fehler - Anwendung startet nicht,AZTEC.GAP.PAAS-SAS-CL-2ND,Resolved,AZ Germany, SAS AVC Client Issue
+INC2963699,SAS - Application Virtualization Fehler - Anwendung startet nicht,AZTEC.GAP.PAAS-SAS-CL-2ND,Resolved,AZ Germany, SAS AVC Client Issue - Vitualization
 INC3573830,Please increase agaglobi2 SAS project space,AZTEC.GAP.PAAS-SAS-CL-2ND,The request has been completed,AZ Germany, SAS Filesystem/Quota
 INC3688024,SR: Do you have any monitoring for project space?,AZTEC.GAP.PAAS-SAS-CL-2ND,"Issue type : Request information
 Description :  monitoring for agaglobi project space
@@ -1359,11 +1212,6 @@ INC3594966,kufeba SAS User Management - bensl no longer belonging to Allianz,AZT
 1) P972999 
 2) LB7KTM",AZ Germany, SAS Others
 INC3286622,lmark1 on PROD not working,AZTEC.GAP.PAAS-SAS-CL-2ND,We have validated the project and it is working fine today. Hence closing this ticket,AZ Germany, SAS Server Issue
-INC2747905,SAS Enterprise Guide - COM-Klassenfactory ... konnte nicht abgerufen werden,AZTEC.GAP.PAAS-SAS-CL-2ND,Issue is resolved after restart of the LSF services on AZD DEV. User confirmed and hence closing the ticket.,AZ Germany, SAS Server Issue
-INC4138945,SAS Anwendungen - Informationen,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident Description:Not able to see report in Biec portal
-Issue Type:SAS Access issue
-Resolution Steps: As per our discussion over meeting, now you can see the data. Please select the Select All check box before search. 
-",AZ Germany, SAS Access Issue
 INC2907984,SAS -  Anwendung Projekt startet nicht,AZTEC.GAP.PAAS-SAS-CL-2ND,This issue will be fixed in the coming release.  For now we are closing the ticket and will update you accordingly.,AZ Germany, SAS Others
 INC2931872,Exadata Migration and new enties in tsn.ora,AZTEC.GAP.PAAS-SAS-CL-2ND,"Dear Evgeny,
 Hope the TNS entries are working fine and we are closing the ticket for now. Please raise a new ticket if any issues.",AZ Germany, SAS Database
@@ -1385,13 +1233,8 @@ INC3346302,Increase memsize,AZTEC.GAP.PAAS-SAS-CL-2ND,After restart of the Objec
 INC4729315,Request for a new entry in tns.ora,AZTEC.GAP.PAAS-SAS-CL-2ND,"Descriptionm:  Request for a new entry in tns.ora n BIEC INT
 Issue Type: SAS Database
 Resolution:  As requested , we have added below TNS entry in BIEC INT environment. Customer has also confirmed that everthing works smooth .",AZ Germany, SAS Database
-INC2581776,Win7 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,Advised user to contact LegBA to obtain the groups.,AZ Germany, SAS Access Issue
 INC2721795,SAS - Application konnte die angeforderte Anwendung nicht starten,AZTEC.GAP.PAAS-SAS-CL-2ND,"User have contacted the hotline who will help with  the reset. As discussed with the user, we are closing this ticket.",AZ Germany, SAS Filesystem/Quota
 INC2519849,SAS Enterprise Guide - Unerwarteter Fehler - Vebindungsproblem,AZTEC.GAP.PAAS-SAS-CL-2ND,"User is not having UNIX groups to access the SAS EG, informed to contact Legba.",AZ Reinsurance, SAS Access Issue
-INC4665566,SAS Anwendungen - Informationen,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident Description:Issue was due to lack of Memory for APKVREP Project on KFRAR003.
-Issue Type: SAS Memory issue
-Resolution Steps: Issue is resolved by increasing memsize changed to 3GB. User also confirmed the same.",AZ Germany, sas configuration
-INC3089385,Win10 - SAS Anwendungen,CSC.WPS.AVC-CLIENT,,AZ Germany,
 INC2790510,Please create new UNIX account ,AZTEC.GAP.PAAS-SAS-CL-2ND,"Hello,
 
 Here sum up of test we made with Pavan help today (thanks a lot Pavan for your support on this topic!):
@@ -1411,47 +1254,18 @@ Best regards,
 
 Jean
 ",AZ Technology, SAS Access Issue
-INC2497229,SAS Anwendungen - Informationen,AZTEC.GAP.PAAS-SAS-CL-2ND,"Dear Team,
-As per email communication that you're missing authorization for UNIX-Group bilebeng. Fort this we already shared list of app owner's to contact.PFA
-In this no pending tasks from support side except the legitimation rights. This can be granted from listed member's. Going forward you can reach us for any support related tasks.
-As of now we're closing this ticket with your acceptance.
-Thank you 
-Regards,
-D Srinivasulu",AZ Germany, SAS Service Requests
 INC4735379,SAS Enterprise Guide - Profileinstellungen werden nicht uebernommen,AZTEC.GAP.PAAS-SAS-CL-2ND,Issue with missing profiles in EG. Issue fixed after restrting usr machine.,AZ Germany, SAS AVC Client Issue
-INC3289455,Win10 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,"Issue is not reproducible and everything seems working fine.
-
-Confirmed the same from the user.",AZ Germany, SAS AVC Client Issue
-INC4379213,Win10 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,"Description: SAS metadata not connecting
-Type: SAS Platform issue
-Resolution : Server got crashed. Corrected by IBM",AZ Germany, SAS Server Issue
-INC2533371,Win7 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,Resolved,AZ Germany, SAS Access Issue
 INC4720055,SAS - Application Virtualization Fehler - Anwendung startet nicht,AZTEC.GAP.PAAS-SAS-CL-2ND,"Description: SAS - Application Virtualization Fehler - Anwendung startet nicht
 Issue Type: SAS IT related issue
-Resolution Steps: User is now able to work with SAS . User has confirmed the same over jabber.",AZ Technology, SAS Performance
+Resolution Steps: User is now able to work with SAS . User has confirmed the same over jabber.",AZ Technology, SAS AVC Client Issue - Vitualization
 INC3720171,SAS Enterprise Guide bricht ab / crashes,AZTEC.GAP.PAAS-SAS-CL-2ND,"Issue Type: SAS EG Cashes
 Description: while executing proc compare in SAS EG and generating report it is crashing
 Solution: We have changed the font style under Tools- options-SAS Report - change the style as EG Default and it works fine.",AZ Germany, SAS Platform Access/Availability
-INC2821232,Win7 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,Advised user to contact the Bobi team regarding the quota storage increase.,AZ Germany, SAS Service Requests
 INC3969991,Standard-Apps cannot be selected SAS Enterprise Guide,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident type : sas others
 Resolution : Issue has been resolved after webex with the user",AZ Germany, SAS AVC Client Issue
-INC3871842,SAS Enterprise Guide - COM-Klassenfactory ... konnte nicht abgerufen werden,AZTEC.GAP.PAAS-SAS-CL-2ND,"Issue Type : SAS EG
-Description : column name was showing in short (8 character) in SAS EG table results.
-Resoulution : 
-There was wrong value set in the SAS EG option.
-SAS EG Option name : Query-- Do not genrate column alias longer than 
-Old value = 8
-New Value = 32",AZ Germany,
-INC2474466,SAS Enterprise Guide - COM-Klassenfactory ... konnte nicht abgerufen werden,AZTEC.GAP.PAAS-SAS-CL-2ND,"Dear Team,
-The bad performance of the LDAP for the operating system (sssd subsystem) is the root cause for the high load. Due, to this the server went to dead state and Every time the load is high we could see that the requests to resolve permissions are not solved in time. In most cases the restart of the sssd helps, we are still working with IBM Team for the Permanent solution.
-As of now we're closing this ticket.
-Thank you.
-Regards,
-D Srinivasulu",AZ Germany, SAS Network Issue
 INC3759730,Error tabellen Globi,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident Type : access issue
 Resolution : advised users to request for the group in giam",AZ Benelux, SAS Access Issue
 INC3146991,SAS Report MIS07 Issue,AZTEC.GAP.PAAS-SAS-CL-2ND,"Unfortunately, we are not responsible for this type of issues. Please contact the developer team on this.",AZ Germany, SAS Others
-INC2884355,Win7 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,"As per user confirmation, the issue has been resolved. PFA mail",AZ Germany, SAS Access Issue
 INC3527714,"SSO - Probleme mit Web-Anwendungen (Alef, Amis, SAS, SIMA ...)",AZTEC.GAP.PAAS-SAS-CL-2ND,"Dear Florian,
 It should be fine , Could you please check and let us know if you have any issues.
 As of now we're closing this ticket.
@@ -1462,7 +1276,6 @@ D Srinivasulu
 INC4639128,Raise a SNOW ticket to AZTEC.GAP.PAAS-SAS-CL-2ND,AZTEC.GAP.PAAS-SAS-CL-2ND,"Desc: Raise SR to Database team
 Type: SR
 Res: Requesr completed",AZ Germany, SAS Service Requests
-INC3517813,Win7 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,Issue resolved by user itself. Confirmed via email (attached).,AZ Germany, SAS Access Issue
 INC2442790,Can't import 2GB CSV file,AZTEC.GAP.PAAS-SAS-CL-2ND,Duplicate incident#INC2441744.,AZ Benelux, SAS Others
 INC2441744,BIFI DEV: biaa-sg-dev.srv.allianz  / Importing large CSV file in SAS,AZTEC.GAP.PAAS-SAS-CL-2ND,"Dear Team,
 User confirmed through email that issue is no exists and resolved. PFA.
@@ -1481,8 +1294,6 @@ INC3801456,SAS BIFI Issue,AZTEC.GAP.PAAS-SAS-CL-2ND,"IT: AMO Excel tool issue.
 D: AMO in Excel is not visiable
 R: We ahve enabled the option in the Excel via WebEx session. Now user was able to view the AMO in Excel.",AZ Reinsurance, SAS Access Issue
 INC3037248,SAS Prod page not loading,AZTEC.GAP.PAAS-SAS-CL-2ND,After restart of the redwh objectspawner the issue is resolved. User confirmed that the issue is resolved.,AZ Reinsurance, SAS Portal issue
-INC3549303,Win10 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,"REF# INC3549166 
-We already restarted the pecosys ObjectSpawner, user confirmed that the issues is resolved.",AZ Germany, SAS Platform Access/Availability
 INC2478470,Win7 - SAS Enterprise Guide friert ein,AZTEC.GAP.PAAS-SAS-CL-2ND,"As per user confirmation, the issue is no more exist.
 
 there was issue in AZD Prod App1 server and it had been restarted to resolve the issue. (INC2473228)",AZ Germany, SAS Performance
@@ -1552,17 +1363,16 @@ It seems user need new M5 client. by seeing attachment he was using M4.
 17.04.2019 16:32:45   g441005
    Aw bestätigt, dass alles ok ist
 
-Close",AZ Germany,
+Close",AZ Germany, SAS AVC Client Issue - Vitualization
 INC3940506,SR: please increase the quota for data_project on the agaact project on E1-BISHR-PROD environment to 200 GB,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident Type : Space issue
 Resolution : The issue has been resolved after space Increase",AZ Benelux, SAS Service Requests
-INC2832640,Win7 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,The Legitimations were accidently removed for user and Now everything is fine after getting the access,AZ Germany, SAS Access Issue
 INC3704127,SAS startet nicht,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident type : access issue
 Resolution : The user is able to connect through the link  https://biec.srv.allianz/SASPortal",AZ Germany, SAS Performance
 INC3562826,SAS ProlongationsManagement_25 Leute betroffen,AZTEC.GAP.PAAS-SAS-CL-2ND,After restart of the Web Servers on AZD Prod by 3rd level then the issue is resolved.,AZ Germany, SAS Platform Access/Availability
 INC4630479,SAS - Application Virtualization Fehler - Anwendung startet nicht,AZTEC.GAP.PAAS-SAS-CL-2ND,"Desc:SAS - Application Virtualization Fehler - Anwendung startet nicht
 Type:SAS AVC issue
-Resolution : Issue solved on call",AZ Technology, SAS AVC Client Issue
-INC2690502,SAS - Application Virtualization Fehler - Anwendung startet nicht,AZTEC.GAP.PAAS-SAS-CL-2ND,We have informed the user that the NPS Report is not available until the beginning of April (see attached).,AZ Germany, SAS AVC Client Issue
+Resolution : Issue solved on call",AZ Technology, SAS AVC Client Issue - Vitualization
+INC2690502,SAS - Application Virtualization Fehler - Anwendung startet nicht,AZTEC.GAP.PAAS-SAS-CL-2ND,We have informed the user that the NPS Report is not available until the beginning of April (see attached).,AZ Germany, SAS AVC Client Issue - Vitualization
 INC3121201,Running a job in DI Studio not possible,AZTEC.GAP.PAAS-SAS-CL-2ND,"Dear Georg,
 Thanks for the confirmation, We'll be closing this ticket.
 Kind Regards,
@@ -1584,8 +1394,6 @@ INC2462716,Problem to use cd_trans.pl,AZTEC.GAP.PAAS-SAS-CL-2ND,"Dear Colleague,
 We haven't done anything from our end. This is not a SAS issue and seems like issue from Connect direct and it currently resolved.",Allianz Tech-BI Layer, SAS Others
 INC3527496,SAS Zugrif nicht möglich: fm,AZTEC.GAP.PAAS-SAS-CL-2ND,After restart of the AZD Prod Web Portals the issue is resolved.,AZ Germany, SAS Portal issue
 INC3910916,SAS Portal Ausfall - Verdacht auf Grossstörung / SAS Portal Failure - Suspected,AZTEC.GAP.PAAS-SAS-CL-2ND,Issue with GPFS and server was rebooted.,AZ Germany, SAS GPFS
-INC4170370,SAS Anwendungen - Informationen,AZTEC.GAP.PAAS-SAS-CL-2ND,"after confirmation from user we are closing this long pending ticket.
-",AZ Germany, SAS Access Issue
 INC2851747,Please increase a quota,AZTEC.GAP.PAAS-SAS-CL-2ND,"As requested, we have increased the storage to 100 GB for  data_project on agaact project on BISHR - INT environment.",AZ France, SAS Service Requests
 INC2809400,The project need more space,AZTEC.GAP.PAAS-SAS-CL-2ND,As per user confirmation we are closing the ticket.,AZ Benelux, SAS Service Requests
 INC3872786,SR: please update the tns entries into the new production SAS (BISHR-PROD) server,AZTEC.GAP.PAAS-SAS-CL-2ND,Done and tested,AZ Benelux, SAS Database
@@ -1593,7 +1401,7 @@ INC3176583,After switching from WIN7 to WIN10 I cannot export jobs to spk file (
 
 Informed to user thrice. Thanks.",AZ Italy, SAS AVC Client Issue
 INC3438919,Can't run SAS DI Studio 94M6 on my avc,AZTEC.GAP.PAAS-SAS-CL-2ND,The issue is resolved after taking webex with the user,AZ Germany, SAS Access Issue
-INC3008291,SAS - Application Virtualization Fehler - Anwendung startet nicht,AZTEC.GAP.PAAS-SAS-CL-2ND,Advised user to go for new SAS EG installation.,AZ Germany, SAS AVC Client Issue
+INC3008291,SAS - Application Virtualization Fehler - Anwendung startet nicht,AZTEC.GAP.PAAS-SAS-CL-2ND,Advised user to go for new SAS EG installation.,AZ Germany, SAS AVC Client Issue - Vitualization
 INC4187115,Reset the SAS + Office AppSense profile - (bensl id - RU11802),AZTEC.GAP.PAAS-SAS-CL-2ND,"Description : SAS EG was not working.
 Issue : User was getting below error while accessing SAS EG Library.
 Error : SAS.IOMProvider
@@ -1602,7 +1410,6 @@ Resolution : We follow the process to solve the issue.
 2. Reset SAS AppSense Profile
 ",AZ Italy, SAS Access Issue
 INC3598672,SAS-EG: no Login in sas-project adams,AZTEC.GAP.PAAS-SAS-CL-2ND,Resolved,AZ Germany, SAS Platform Access/Availability
-INC3020137,SAS Anwendungen - Probleme,AZTEC.GAP.PAAS-SAS-CL-2ND,"Yes, it the general problem in the SAS EG with Win 10. We are in the process of upgrade the SAS to M6 version and will hope this can be fixed. Meanwhile we are closing the ticket for now.",AZ Germany, SAS  Configuration
 INC2725528,SAS Portal -https://biec.srv.allianz/SASPortal/main.do keine Rückmeldung/ friert,AZTEC.GAP.PAAS-SAS-CL-2ND,"Dear Colleague,
 
 We have just found an email that the SAS portal for NPS Report is not available until the beginning of April (see attached).
@@ -1625,8 +1432,8 @@ Created the Soft Links as per their request. Informed the same to the user.
 INC4246135,(R) SAS issue ,AZTEC.GAP.PAAS-SAS-CL-2ND,"Description : SAS issue
 Type : AVC 
 Description : The issue was fixed after AVC team resetted the appsense",AZ Benelux, SAS AVC Client Issue
-INC4508246,Long Pending Issue:  TU=GARPI/GARPT not in GIAM tool,AZTEC.GAP.PAAS-SAS-CL-2ND,Now TU GARPI is available in GIAM tool.,,
-INC2643397,SAS - Application Virtualization Fehler - Anwendung startet nicht,AZTEC.GAP.PAAS-SAS-CL-2ND,User got a new laptop hardware. Problem is solved.,AZ Germany, SAS AVC Client Issue
+INC4508246,Long Pending Issue:  TU=GARPI/GARPT not in GIAM tool,AZTEC.GAP.PAAS-SAS-CL-2ND,Now TU GARPI is available in GIAM tool.,, SAS AVC Client Issue
+INC2643397,SAS - Application Virtualization Fehler - Anwendung startet nicht,AZTEC.GAP.PAAS-SAS-CL-2ND,User got a new laptop hardware. Problem is solved.,AZ Germany, SAS AVC Client Issue - Vitualization
 INC3668859,SAS Portal - Errors and Problems {kk},AZTEC.GAP.PAAS-SAS-CL-2ND,"SAS EG project slowness issue.
 It was working fine. We havnt done any..Seems to be temp issue.",AZ UK, SAS Portal issue
 INC3562866,SAS IDP issues,AZTEC.GAP.PAAS-SAS-CL-2ND,"Slowness issue has been resolved,user has confirmed that reports are running fine in SAS IDP as usual.
@@ -1720,8 +1527,6 @@ Resolution : The issue has been resolved after providing access of metadata grou
 INC3549863,Problems connecting to SAS application server,AZTEC.GAP.PAAS-SAS-CL-2ND,Resolved,AZ Germany, SAS Server Issue
 INC3290912,SAS Enterprise Guide - Failed to Start the Server. ¿ The lauch of the Server apk,AZTEC.GAP.PAAS-SAS-CL-2ND,The issue has been resolved after ObjectSpawner restart,AZ Germany, SAS Others
 INC3031047,Access to Sas Metadata,AZTEC.GAP.PAAS-SAS-CL-2ND,"We have provided user with list of application owners, with whom the user have to request access",AZ Benelux, SAS Access Issue
-INC2720842,Win7 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,User have received more space and advised us to close the ticket,AZ Germany, SAS Filesystem/Quota
-INC2708854,Win7 - SAS Anwendungen,AMOS.BIS.B1-AZD,,AZ Germany, SAS Others
 INC3156024,AZD Win10 Umstellung/Grundbetankung - Software fehlt auf Win10 Client,AZTEC.GAP.PAAS-SAS-CL-2ND,"Dear Dirk/Torsten, 
 
 Jan has an issue with some execution of the job. 
@@ -1729,17 +1534,6 @@ Jan has an issue with some execution of the job.
 As provided are not related to our UC4 system job details. So, could you please check with him and help. 
 
 @Jan: We are closing the ticket for now. Please raise a new ticket for any further assistance.",AZ Germany, SAS AVC Client Issue
-INC3507057,Win7 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,"Dear Jan,
-Issue has been resolved after entering in to correct password. So your issue has been resolved and we're closing this ticket.
-You can reach us if you have any queries.
-Thanks you
-Regards,
-D Srinivasulu",AZ Germany, SAS Access Issue
-INC3542531,Win10 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,"Dear Jan,
-As per Jabber discussion, Your issue has been resolved and we're closing this ticket.
-Thank you
-Regards,
-D Srinivasulu",AZ Germany, SAS Access Issue
 INC3089936,SAS Enterprise Guide- StartEg,CSC.WPS.AVC-CLIENT,,AZ Germany,
 INC2651246,Install newer version of SAS EG,AZD.IT-BVG5.C2,"18.02.2019 15:42:56   ws_snow_prod
    (SNOW)
@@ -1777,7 +1571,6 @@ Wann wäre die AWin in der W10-Rolloutplanung dran? ...dann bräuchten wir keine Z
    Wie besprochen
 19.03.2019 15:00:00   g441005
    lt Awin durch andere Kollegen, die an dem Fall dran waren, schon vor 2 Wochen gelöst",AZ Germany, SAS Others
-INC3052409,Win10 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,"As per user confirmation, we are closing the ticket. user will open another ticket , if problem occurs again.",AZ Germany, SAS Access Issue
 INC3529324,SAS- Es ist ein schwerwiegender Fehler aufgetreten. Wenden Sie sich an ihren Por,AZTEC.GAP.PAAS-SAS-CL-2ND,After restart of the AZD Prod Web Portals the issue is resolved. Users also confirmed.,AZ Germany, SAS Portal issue
 INC2727076,SAS globi not working,AZTEC.GAP.PAAS-SAS-CL-2ND,We have requested the users to change the ownership of the files or get the required group assigned to the users through Giam. ,AZ Benelux, SAS Access Issue
 INC3575764,ERROR: SAS AMO Excel,AZTEC.GAP.PAAS-SAS-CL-2ND,"User is able to select the profile, once she logged in with lowercase letters on AVC",AZ Reinsurance, SAS Access Issue
@@ -1794,7 +1587,7 @@ INC3923828,Unable connect SAS,AZTEC.GAP.PAAS-SAS-CL-2ND,"Description: User not a
 Error: Unable to open ""redwh:APC Ad Hoc Reporting"".
 Solution: User have to order the needed access rights (Redwh LIB AMO IMAPs) via AZRE Support together with the approval of user line manager.
 ",AZ Reinsurance, SAS Server Issue
-INC4218178,Software - Reopening INC4068027,AZTEC.GAP.PAAS-SAS-CL-2ND,Issue witk Clents tools on AVC. We havnt done any and issue got resolved.,AZ Reinsurance,
+INC4218178,Software - Reopening INC4068027,AZTEC.GAP.PAAS-SAS-CL-2ND,Issue witk Clents tools on AVC. We havnt done any and issue got resolved.,AZ Reinsurance,sas configuration
 INC4669541,Please restart the attached failed BI Layer jobs,AZTEC.GAP.PAAS-SAS-CL-2ND,"Desc:Please restart the attached failed BI Layer jobs
 Type:SAS server issue
 Resolution: Issue resolved",AZ Technology, SAS - Space Issue
@@ -1859,7 +1652,6 @@ INC3818058,OLAP-Server for telef on PROD not running,AZTEC.GAP.PAAS-SAS-CL-2ND,"
 Resoluton: ObjectSpawner restarted and it is working fine now",AZ Germany, SAS Server Issue
 INC3921465,telef in SAS-Portal not responding,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident type: sas portal issue
 Resolution : We have restarted the objectspawner",AZ Germany, SAS Server Issue
-INC3041799,Win10 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,We have cross verified the roles with H2934 user and replicated the bemrep roles and then issue is resolved. User confirmed via email (attached).,AZ Germany, SAS Access Issue
 INC3947547,3rd/ Clearing/ Täglich die selber FM mit Microsoft.Net Framework - Unbehandelte,AZTEC.GAP.PAAS-SAS-CL-2ND,Resolution Steps: Issue has been resolved after changing the date format English (German),AZ Germany, SAS Others
 INC3899181,APC DM Error,AZTEC.GAP.PAAS-SAS-CL-2ND,"Description: user was not able to refresh the report 
 Reason: Due to insufficient access to the report, It has been changed as part of extra security
@@ -1876,15 +1668,14 @@ Thanks
 Kind Regards,
 D Srinivasulu
 ",AZ Reinsurance, SAS Access Issue
-INC2758434,SAS - Application Virtualization Fehler - Anwendung startet nicht,AZTEC.GAP.PAAS-SAS-CL-2ND,"After restart of the pdb ObjectSpwaner, user was able to expand the pdb in SAS EG.",AZ Germany, SAS AVC Client Issue
+INC2758434,SAS - Application Virtualization Fehler - Anwendung startet nicht,AZTEC.GAP.PAAS-SAS-CL-2ND,"After restart of the pdb ObjectSpwaner, user was able to expand the pdb in SAS EG.",AZ Germany, SAS AVC Client Issue - Vitualization
 INC3679038,STP-Fehler biqs fileretriever,AZTEC.GAP.PAAS-SAS-CL-2ND,after restart of ObjectSpawner issue has been resolved,AZ Germany, SAS Platform Access/Availability
 INC4162100,SAS biev DEV Error,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident Description: SAS DEV (BIEC) is not reachable.
 Issue Type: SAS server issue
 Resolution Steps: Issue is resolved after restarting object Spwaner. User has also confirmed the same over jabber..",AZ Germany, SAS Server Issue
-INC2727921,Win7 - SAS Anwendungen - Unerwartete Fehler,AZTEC.GAP.PAAS-SAS-CL-2ND,We advised the user to contact LegBa to add the UNIX group.,AZ Germany, SAS Access Issue
 INC3788883,SAS - Application Virtualization Fehler - Anwendung startet nicht,AZTEC.GAP.PAAS-SAS-CL-2ND,"Description ; Unable to export excel file
 Incident Tyoe : other
-Resolution : user is able to export the excel file after cleanup",AZ Germany, SAS Others
+Resolution : user is able to export the excel file after cleanup",AZ Germany, SAS AVC Client Issue - Vitualization
 INC2893972,von SAS im egb Format gespeicherte Auswertung im Windows Explorer nicht aufrufb,AZTEC.GAP.PAAS-SAS-CL-2ND,"Dear Joachim,
 As per our conversation, this issue will be fixed in a Next release.
 We have already found a Hotfix for SAS Reporting tool, which will be fixed in the coming release.
@@ -1895,10 +1686,7 @@ D Srinivasulu
 ",AZ Germany, SAS Platform Access/Availability
 INC2911539,SAS - Application Virtualization Fehler - Anwendung startet nicht,AZTEC.GAP.PAAS-SAS-CL-2ND,"Dear Johann,
 As per our WebEx session, you are able to access the SAS EG with the default AZD 94 PROD profile on Win 10.
-We are closing the ticket for now. Please raise anew ticket for any further assistance.",AZ Germany, SAS AVC Client Issue
-INC2902018,SAS Anwendungen - SAS Enterprise Guide öffnet sich in falscher Umgebung,AZTEC.GAP.PAAS-SAS-CL-2ND,This is global change and not possible.,AZ Germany, SAS Service Requests
-INC3089140,Win10 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,Resolved,AZ Germany, SAS Platform Access/Availability
-INC3035388,Win10 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,User confirmed that the issue is resolved.,AZ Germany, SAS Access Issue
+We are closing the ticket for now. Please raise anew ticket for any further assistance.",AZ Germany, SAS AVC Client Issue - Vitualization
 INC3324016,Urgent!! TU-Users deactivated/deleted,AMOS.IOW.C6-AIMS-AZD,"19.07.2019 12:06:29   g021854
    Dear Team,
  we have urgent issue with Reports for LSZ!!
@@ -1999,7 +1787,6 @@ INC2502538,Login with TU (apcitp) is not possible,AZTEC.GAP.PAAS-SAS-CL-2ND,TU i
 INC2527997,Please change for AZD APP project the encoding from utf 8 to Latin1,AZTEC.GAP.PAAS-SAS-CL-2ND,"
 The request has been completed successfully and we have changed the -encoding latin1 for appg project on all the environments.",AZ Germany, SAS Others
 INC4705767,User (agmftpp) is not visible in GIAM but exists,AZTEC.GAP.PAAS-SAS-CL-2ND,We are convinced with the info provided by GIAM team so closing the ticket.,AZ Technology, SAS Access Issue
-INC3188055,SAS Anwendungen - Informationen,AZTEC.GAP.PAAS-SAS-CL-2ND,The issue will be resolved after installation of the new version of SAS EG,AZ Germany, SAS Platform Access/Availability
 INC2690853,SAS-FM / COP - unspecified error - excel addin-urgent,AZTEC.GAP.SASFM-2ND,"Dear Team,
 Issue has been resolved as confirmed by user over the mail. So we're closing this ticket. PFA
 Thank you
@@ -2007,17 +1794,8 @@ Regards,
 D Srinivasulu",AZ France, SAS Access Issue
 INC2665945,VD AZTECH - SAS startEG has stopped working,AZTEC.GAP.PAAS-SAS-CL-2ND,"Ref: INC2690853 
 Issue has been resolve.PFA",AZ France, SAS Access Issue
-INC2992145,Win7 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,Hope the issue is resolved. hence closing the ticket.,AZ Germany, SAS Performance
 INC3320327,SAS Enterprise Guide AZD94 PROD Login,AZTEC.GAP.PAAS-SAS-CL-2ND,Solved,AZ Germany, SAS Access Issue
 INC3462477,Office 2010 - Eg Meldung,AZTEC.GAP.PAAS-SAS-CL-2ND,Resolved,AZ Germany, SAS Others
-INC2613079,Win7 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,"Dear Julia,
-As per call discussion that you're ale run the program through SAS EG and now working fine.
-So we're resolving this ticket as of now and however your ticket will be permanently closed after five days.
-In case your reported issue is not resolved yet, you still have the option to re-open your ticket within these five business days. 
-Thank you.
-Regards,
-D Srinivasulu
-",AZ Technology, SAS Access Issue
 INC2591236,"SAS Enterprise Guide - ""KUASUSW"" ist nicht vorhanden, Sie müssen Anwendungsrouti",AZTEC.GAP.PAAS-SAS-CL-2ND,"As per user confirmation, we are closing the ticket as of now.",AZ Germany, SAS Performance
 INC3549166,SAS Enterprise Guide - Server is not available,AZTEC.GAP.PAAS-SAS-CL-2ND,"After restart of the pecosys ObjectSpawner the issue is resolved. User confirmed via email.
 ",AZ Germany, SAS Platform Access/Availability
@@ -2107,9 +1885,6 @@ Regards,
 D Srinivasulu",AZ Germany, SAS Access Issue
 INC2989690,reports and cubes failing on SAS PROD GAOEM,AZTEC.GAP.PAAS-SAS-CL-2ND,User confirmed that the reports are working fine (email attached).,AZ Germany, SAS Performance
 INC2932370,Win7 - SAS Enterprise Guide,AZTEC.GAP.PAAS-SAS-CL-2ND,"The issue is resolved after restart of the AZD DEV, INT and PROD UNIX servers.",AZ Germany, SAS Performance
-INC4379190,Win10 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,"Description: SAS metadata not connecting
-Type: SAS Platform issue
-Resolution : Server got crashed. Corrected by IBM",AZ Germany, SAS Platform Access/Availability
 INC4045898,Add the following colleagues ad awendungs owner ,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident Description: Add the following colleagues ad awendungs owner for the projects azspa1 and azspasun1 in the environments bishr-dev and in bish2-prod. 
 Issue Type: SAS Access
 Resolution Description: As requested ,Below mentioned users are added as Anwendungs owner for the projects azspa1 and azspasun1 in the environments bishr-dev and in bish2-prod. 
@@ -2117,15 +1892,6 @@ Resolution Description: As requested ,Below mentioned users are added as Anwendu
 • FRISANCOFEDERI 
 • MUTTONIGIOVANNI 
 • Heinrich, Sabrina (Allianz Technology) ",AZ Technology, SAS Access Issue
-INC3911376,SAS Enterprise Guide - COM-Klassenfactory ... konnte nicht abgerufen werden,AZTEC.GAP.PAAS-SAS-CL-2ND, This issue is related to Unable to SSH AZD PROD and GPFS issues  - KFRAR021  - P2 INC3911017,AZ Germany, SAS Others
-INC4379413,Win10 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident Description: SAS Server connectivity issue AZD prod.
-Issue Type: SAS Server Issue
-Resolution Steps: Issue is resolved now . All the services are up and running now
-Issue was caused due to server crash . IBM team will investigate further for root cause.
-User has also confirmed over jabber.",AZ Germany, SAS Server Issue
-INC4568345,Win10 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,"Description:Unable to connect
-Type:SAS server issue
-Resolution: jobs working fine after objectspawner restart",AZ Germany, SAS Server Issue
 INC2580602,Service Request -FMO-,AZTEC.GAP.PAAS-SAS-CL-2ND,"This SR will be closed.
 The rest will be performed in separate SRs",AZ Technology, SAS Service Requests
 INC2702164,Service Request -CMO-,AZTEC.GAP.PAAS-SAS-CL-2ND,"28.02.2019 11:58:19   ks4qzk5
@@ -2182,7 +1948,7 @@ the job has been scheduled and activated as requested.
 Regards",AZ Germany, SAS Service Requests
 INC2693329,Service Request -CMO-,IBM.DS.BACKUP-2ND,Closed by admin as requested in: INC3598425,AZ Germany, SAS Service Requests
 INC4656344,Server (SLA26240) got rebooted on 01-June-2020,AZTEC.GAP.PAAS-SAS-CL-2ND,raised a Problem Ticket : PRB0057722,AZ E2 Paris, SAS GPFS
-INC3014487,Activating TLS 1.2 for enabling encrypted C:D transfer,IBM.MF.FILETRANS-3RD,Closed by admin as requested in: INC4252499,AZ Technology,
+INC3014487,Activating TLS 1.2 for enabling encrypted C:D transfer,IBM.MF.FILETRANS-3RD,Closed by admin as requested in: INC4252499,AZ Technology,sas configuration
 INC2563761,Service Request -FMO-,AZTEC.GAP.PAAS-SAS-CL-2ND,"Hello,
 
 there are no failed runs of job ALEF8903  in the queue, nothing to unblock
@@ -2412,16 +2178,6 @@ Source Path
 
 Destination Path
 In Place",AZ Germany, SAS Service Requests
-INC3037819,Service Request -CMO-,AZTEC.GAP.PAAS-SAS-CL-2ND,"07.05.2019 13:56:24   ks4qzk5
-   Name:                        Kishore Inala
-Phone:                       +49 89 3800
-Please schedule tis job as per attached excel file
-07.05.2019 17:16:17   n6eml9s
-   Dear Team,
-
-the job has been created and activated.
-
-Regards",AZ Germany, SAS UC4 Job Creation
 INC2569499,Service Request -FMO-,AZTEC.GAP.PAAS-SAS-CL-2ND,"29.01.2019 15:31:02   ks4qzk5
    Name:                        Kishore Inala
 Phone:                       +49 89 3800
@@ -2594,10 +2350,6 @@ INC2770384,Change Access rights,AZTEC.GAP.PAAS-SAS-CL-2ND,User confirmed to clos
 INC3136920,bish2-sas94-meta-int.srv.allianz - cannot connect to server (UAT),AZTEC.GAP.PAAS-SAS-CL-2ND,User confirmed that it is working now (email attached).,AZ Benelux, SAS Server Issue
 INC2677761,CQ5XEJE user blocked to access and execute SAS jobs (UNIX + DIS),AZTEC.GAP.PAAS-SAS-CL-2ND,Users LEGBA can help further.,AZ France, SAS -   UC4  Job Issues
 INC3106822,[SAS] (bish2-sas94-meta-int.srv.allianz) An exception was thrown while sending a packet to the peer. ,AZTEC.GAP.PAAS-SAS-CL-2ND,"As per user confirmation, we are closing this ticket.",AZ Benelux, SAS Network Issue
-INC3817826,Win10 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident Description: SAS Enterprise Gide was not connecting for vmauto project.
-Incident type: Server issue.
-Resolution Steps: After restarting the object spwaner service , it worked fine. User also confirmed same over email.
-",AZ Germany, SAS Platform Access/Availability
 INC2480026,stuck job,AZTEC.GAP.PAAS-SAS-CL-2ND,"There is no issue from SAS end, all services are up and running fine. Inform the same to the user.
 
 Thanks.",AZ Germany, SAS Others
@@ -2634,39 +2386,21 @@ Resolution Description: Restoration is completed by backup team. user has also c
 INC4374519,File Restore request on AZD Prod,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident Description: File Restore request on AZD Prod
 Issue Type: SAS Service Request
 Resolution Steps: Customer requested to cancel the request as this was a mistake.",AZ Germany, SAS Service Requests
-INC3636917,SAS Anwendungen - Informationen,AZTEC.GAP.PAAS-SAS-CL-2ND,"We have created the soft link on kfrar023 server and looks good now. We received confirmation from user also, hence closing the ticket.",AZ Germany, SAS Linux Server
-INC3870586,Win7 - SAS Anwendungen ¿ SAS System Option fehlt/fehlerhaft,AZTEC.GAP.PAAS-SAS-CL-2ND,"Done required configuration change.
-Issue has been fixed on PROD/DEv and INT",AZ Germany, sas configuration
 INC3451809,SAS mem zu 4gb Erhöhern.,AZTEC.GAP.PAAS-SAS-CL-2ND,"Changes has been done as requested .
 
 Closing the incident after getting confirmation rom user.",AZ Germany, SAS Memory
-INC2524637,SAS Anwendungen - Keine verbindung mit den Server,AZTEC.GAP.PAAS-SAS-CL-2ND,"BISFB Objectspawner was not responding, so we have restarted the service. The issue has been resolved after restarting the bisfb service. As per user confirmation the issue has bee resolved. PFA mail confirmation for the same.",AZ Germany, SAS Platform Access/Availability
-INC4379378,Win10 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident Description: SAS Server connectivity issue AZD prod.
-Issue Type: SAS Server Issue
-Resolution Steps:Issue is resolved now . All the services are up and running now
-Issue was caused due to server crash . IBM team will investigate further for root cause.",AZ Germany, SAS Server Issue
 INC3895469,File Restoration request on AZD prod Server,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident Type: Service Request
 Resolution Description: Restoration is completed by backup team. user has also confirmed the same over jabber.",AZ Germany, SAS Service Requests
-INC3841171,Win7 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,"Issue with wrong path configured for Certficate Store.
-We have corrected the path in SAS config file.",AZ Germany, SAS Others
 INC3888294,File Restoration request.,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident Description: File Restoration request.
 Incident Type: Service Request.
 Resolution Description: File has been restored by backup team. User has also confirmed the same over jabber",AZ Germany, SAS Service Requests
-INC3817042,Win7 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident Type : server issue
-Resolution : corrected the olap server",AZ Germany, SAS Performance
 INC3451015,SAS mem zu 4gb Erhöhern.,AZTEC.GAP.PAAS-SAS-CL-2ND,"As per request changes has been applied .
 
 Closing the incident after confirming with user.",AZ Germany, SAS Memory
 INC3895443,File Restore on AZD Prod,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident Type: Service Request
 Resolution Description: Restoration is completed by backup team. user has also confirmed the same over jabber.",AZ Germany, SAS Service Requests
 INC3439843,Unix - Fehler und Probleme,AMOS.BAS.RO.GAP-LEGBA,Closed by admin as requested in: ,AZ Germany, SAS Others
-INC3547544,Win7 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,"Dear Team,
-Issue already resolved. So we reclosing this ticket.
-Thanks
-",AZ Germany, SAS Access Issue
-INC2993968,SAS Anwendungen -Verdacht auf Grossstörung,AZTEC.GAP.PAAS-SAS-CL-2ND,"The issue is fixed. Upon confirmation from the user, we are closing the ticket",AZ Germany, SAS Server Issue
 INC3501323,SAS Portal Issue !,AZTEC.GAP.PAAS-SAS-CL-2ND,The issue has been resolved,AZ Germany, SAS Portal issue
-INC2526479,Win7 - SAS Anwendungen- Enterprise Guide 7.13,AZTEC.GAP.PAAS-SAS-CL-2ND,The user has got SAS EG installed on her system,AZ Germany, SAS Access Issue
 INC2932755,"SAS Enterprise Guide - Connection to the server ""fi_ab"" could not be estabslihed",AZTEC.GAP.PAAS-SAS-CL-2ND,"The issue is resolved after restart of the AZD DEV, INT and PROD UNIX servers.",AZ Germany, SAS Server Issue
 INC3823390,SAS - Anwendung startet nicht / Application does not start,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident Type : SAS server issue
 Resolution :  The issue was due to wrong mounting of Filesystem on Web Server. This was corrected with INC3823495",AZ Germany, SAS Performance
@@ -2695,9 +2429,6 @@ Dear Lisek,
 Hope you have contacted the below provided applications to obtain the access. We are closing the ticket for now.
 
 Please raise a new ticket for any further issues.",AZ Benelux, SAS Others
-INC2749577,Win7 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,Issue is resolved after the restart of the LSF service on AZD DEV. User confirmed to close the ticket (email attached).,AZ Germany, SAS LSF
-INC4721380,Win10 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,"Issue with hanging spawner for BISFB Project.
-Fixed after restarting it",AZ Germany, SAS Platform Access/Availability
 INC2787867,Restore Friday backup  ( 15/03/2019)  of master_data_azf  ,AZTEC.GAP.PAAS-SAS-CL-2ND,Restore request completed successfully.,AZ Germany, SAS Service Requests
 INC3865325,MAIL2INC - SAS-Portal öffnet sich nicht_ obwohl Berechtigung eingerichtet wurde,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident Description: BIEC prod portal does not open
 Incident Type: SAS Portal issue
@@ -2706,9 +2437,6 @@ INC4736429,Job WEB10675 failed,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident Description: 
 Issue Type:  SAS Uc4 Job issue
 Resolution: queue has been  cleared, next run as scheduled.",AZ UK, SAS -   UC4  Job Issues
 INC3118141,SGRID_BIAA_1_E1_PROD offline on PFIVUC4 uc4 system,AZTEC.GAP.PAAS-SAS-CL-2ND,After restart of UC4 agents. All are working fine,AZ Technology, SAS Server Issue
-INC3969434,SAS Anwendungen - Informationen,AZTEC.GAP.PAAS-SAS-CL-2ND,"Issue Type : SAS EG
-Description : Send to excel was not working through SAS EG.
-Resolution : The issue has been resolved automatically by user end.",AZ Germany, SAS Others
 INC2902326,Win7 - SAS Enterprise Guide,AZTEC.GAP.PAAS-SAS-CL-2ND,Issue resolved by user and confirmed to close the ticket.,AZ Germany, SAS Access Issue
 INC2622346,Win7 - SAS Enterprise guide - Lange Antwortzeiten,AZTEC.GAP.PAAS-SAS-CL-2ND,"Dear Manuel,
 Thank you for the confirmation. (PFA) User able to work on SAS.
@@ -2731,7 +2459,6 @@ INC3438789,PROD::AGA::SAS Release upgrade issues:: Opening each SAS tools,AZTEC.
 INC2748225,Needed agamercury project access,AZTEC.GAP.PAAS-SAS-CL-2ND,"Dear Marcin,
 Project application owner can able to provide you/ team-members the access to the project. We will not provide any access to the projects.
 Please contact the project application owner.",AZ Technology, SAS Access Issue
-INC4322951,SAS Enterprise Guide - COM-Klassenfactory ... konnte nicht abgerufen werden,AZTEC.GAP.PAAS-SAS-CL-2ND,This issue was due to change on ADAG Production.,AZ Germany, SAS Others
 INC3540361,SAS Enterprise Guide - Servers können nicht zugegriffen werden,AZTEC.GAP.PAAS-SAS-CL-2ND,"Issue has been resolved after restarting object spwaner for pdb project on production environment.
 User has also confirmed the same over call.",AZ Germany, SAS Server Issue
 INC4724221,SAS Portal - Anmeldeproblem falsches Zertifikat,AZTEC.GAP.PAAS-SAS-CL-2ND,"Description:SAS Portal - Anmeldeproblem falsches Zertifikat
@@ -2747,14 +2474,6 @@ Resolution : Request was cancelled",AZ France, SAS Service Requests
 INC4375233,COP PROD - Need restart all servers in the given schedule,AZTEC.GAP.SASFM-2ND,"Description :COP PROD - Need restart all servers in the given schedule
 Type: SR
 Resolution : restart done for  today",AZ France, SAS Server Issue
-INC4565963,SAS Anwendungen - Informationen,AZTEC.GAP.PAAS-SAS-CL-2ND,"Desc:SAS Anwendungen - Informationen
-Typ:SAS server issue
-Resolution: Isuue with server correced by IBM",AZ Germany, SAS Platform Access/Availability
-INC3064256,Win7 - SAS Anwendungen - Enterprise Guide,AZTEC.GAP.PAAS-SAS-CL-2ND,"Dear Team,
-The Issue has been resolved and attached the final communication from user side. So we're closing this ticket.
-Thank you
-Regards,
-D Srinivasulu",AZ Germany, SAS Access Issue
 INC3296775,SAS Enterprise guide error,AZTEC.GAP.PAAS-SAS-CL-2ND,Advised user to submit a GIAM request to get access to the system.,AZ Reinsurance, SAS Access Issue
 INC2971195,"Win10  - SAS  - startSAS.exe nicht zu finden ist / startSAS.exe not found""",AZTEC.GAP.PAAS-SAS-CL-2ND,This was a temporary issue. The user responded that the issue does not persist. Hence closing the ticket.,AZ Germany, SAS Others
 INC2800740,"add authdomain ""APKVFB_ORA_ADBIBSX_APKVFBSAS_SAS_AUTH""  to TU Properties ""apkvfbi"" in SAS DI",AZTEC.GAP.PAAS-SAS-CL-2ND,User confirmed to close the ticket.,AZ Germany, SAS Database
@@ -2771,7 +2490,7 @@ Regards,
 D Srinivasulu",AZ Germany, SAS  Configuration
 INC2681731,"Create new authdomains SAS EG/DI  Stage INT, PROD",AZTEC.GAP.PAAS-SAS-CL-2ND,Done accordingly,AZ Germany, SAS Database
 INC2800636,"TU ""apkvfb"" Needs Access to authdomain ""APKVFB_ORA_ADBIBSX_APKVFBSAS_SAS_AUTH""",AZTEC.GAP.PAAS-SAS-CL-2ND,Added Successfully !,AZ Germany, SAS Database
-INC3192017,Delete SAS Authdomains,AZTEC.GAP.PAAS-SAS-CL-2ND,User validated and confirmed to close the ticket.,AZ Germany, SAS- configuration
+INC3192017,Delete SAS Authdomains,AZTEC.GAP.PAAS-SAS-CL-2ND,User validated and confirmed to close the ticket.,AZ Germany,sas configuration
 INC2669322,sas integration via EG - no access,AZTEC.GAP.PAAS-SAS-CL-2ND,"Dear Team,
 Issue has been resolved and we're closing this ticket.PFA.
 Thank you.
@@ -2786,13 +2505,6 @@ Mario Allegretti
 S.a. Sistemi Attuariali Condivisi
 
 ",AZ Germany, SAS Access Issue
-INC3089615,3rd / drigend Win10 - SAS Anwendungen,CSC.WPS.AVC-CLIENT,,AZ Germany,
-INC4721329,Win10 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,"IT: Unable to access the SAS AZD prod server
-D: Win10 - SAS Anwendungen
-R: IBM NAS Team worked on INC4719837 P2 for AZD Production Server deadlock issue. Deadlock is broken by NAS team and now AZD Prod is working fine now.",AZ Germany, SAS Platform Access/Availability
-INC4297437,Win10 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,"description : Win10 - SAS Anwendungen
-type: others
-resolution; advised the user to contact the hotline for SAS EG reinstallation",AZ Germany, SAS Others
 INC3276326,URGENT: SAS Reports Not Available,AZTEC.GAP.PAAS-SAS-CL-2ND,"
 We havent done anything from our end. User confirmed that the issue is resolved.",AZ Reinsurance, SAS Others
 INC3061891,COP Authorization - NEW SAS FM USER - BENSL : YDVEUA5 / DICID : TOURBARM,AZTEC.GAP.PAAS-SAS-CL-2ND,Unable has the basic unix rights. Unable to contact the user for further communication.,AZ France, SAS Access Issue
@@ -2800,25 +2512,9 @@ INC2727037,User not more able to access the SAS Bglobi datasets,AZTEC.GAP.PAAS-S
 INC3259842,User lost authorization ABS libraries in Globi,AZTEC.GAP.PAAS-SAS-CL-2ND,The issue was resolved after the permissions of the file were changed by Philipp hoste. We got comfirmation from the user that everything is working fine now. ,AZ Benelux, SAS Access Issue
 INC3722521,Profile not shown in APC DM,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident Type: access issue
 Resolution : advised user to contact application owner for required rights",AZ Reinsurance, SAS Access Issue
-INC2758724,SAS Anwendungen - Informationen,AZTEC.GAP.PAAS-SAS-CL-2ND,User confirmed to close the ticket (email attached).,AZ Germany, SAS  Configuration
 INC4785253,VT Dialog Alarm Grafana,AZTEC.GAP.PAAS-SAS-CL-2ND,"IT: vt_db project is not accessiable.
 D: VT Dialog Alarm Grafana
 R: After restart of the vt_db project objectspawner the issue is resolved.",AZ Germany, SAS Platform Access/Availability
-INC2887757,Win10 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,"Dear Markus,
-As per Jabber discussion that you're working again with SAS Application. So we're closing this ticket if no action is required.
-Please reach us if you have any queries.
-Thank you.
-Kind Regards,
-D Srinivasulu
-",AZ Germany, SAS Access Issue
-INC3657331,SAS Anwendungen - Informationen,AZTEC.GAP.PAAS-SAS-CL-2ND,"As the issue is resolved, we are closing the ticket.",AZ Germany, SAS  Configuration
-INC2971259,"SAS Anwendungen -  SAS Enterprise Guide startet nicht, FM kommt",AZTEC.GAP.PAAS-SAS-CL-2ND,"As confirmed with user, the issue is no more exist.
-startSAS.exe was not from temp location and we have corrected the location. 
-As per user confirmation, the issue has been resolved.",AZ Germany, SAS Server Issue
-INC2472460,Win7 - SAS Anwendungen Fehler,AZTEC.GAP.PAAS-SAS-CL-2ND,"Issue resolved after resolving the ssh on KFrar003 server, working with UNIX Team for the RCA on INC2473228",AZ Germany, SAS Performance
-INC2989816,SAS Enterprise Guide - COM-Klassenfactory ... konnte nicht abgerufen werden,AZTEC.GAP.PAAS-SAS-CL-2ND,"The reason behind the current behavior (connection profile overwritten every time EG starts) is the upgrade to WIN10. In order to resolve the issue a global configuration change is required. This will be discussed with Allianz Deutschland. 
-
-As for now it works as designed. The only thing that remains is the general configuration change which will be discussed. So, please let us know if you have any concern. ",AZ Germany, SAS Others
 INC3911051,"SAS Enterprisde Guide - Server restart needed , error message",AZTEC.GAP.PAAS-SAS-CL-2ND,"Issue with GPFS. Server was rebooted.
 ALl ok now",AZ Germany, SAS GPFS
 INC2993755,Win7 - SAS Enterprise Guide - Datenbank öffnet nicht,AZTEC.GAP.PAAS-SAS-CL-2ND,"Dear Team,
@@ -2838,9 +2534,7 @@ INC2971065,MAIL2INC- SAS Enterpriseguide funktioniert nicht mehr LDB ID:39176,AZ
 As per user confirmation, the issue has been resolved.",AZ Germany, SAS Server Issue
 INC3089614,SAS - Application Virtualization Fehler - Anwendung startet nicht,AZTEC.GAP.PAAS-SAS-CL-2ND,"Issue is resolved.  User confirmed to close the ticket.
 
-Master ticket: INC3089592",AZ Germany, SAS AVC Client Issue
-INC3539238,SAS Anwendungen - Informationen,AZTEC.GAP.PAAS-SAS-CL-2ND,"There was temporary GPFS connection issue (Master P2 ticket INC3538571), the issue has been resolved after restarting bisfb objectspawner.",AZ Germany, SAS GPFS
-INC2719047,SAS Anwendungen - Software zurückgeben,AZTEC.SERVICEPORTAL,Closed by admin as requested in: ,AZ Germany,
+Master ticket: INC3089592",AZ Germany, SAS AVC Client Issue - Vitualization
 INC3025179,very very slow SAS DEV environment,AZTEC.GAP.PAAS-SAS-CL-2ND,User confirmed that the performance on the server looks good and ticket can be closed.,AZ Germany, SAS Performance
 INC4787803,set database links to db2,AZTEC.GAP.PAAS-SAS-CL-2ND,"Desc:set database links to db2
 Type:sas database
@@ -2853,7 +2547,7 @@ INC3942278,STP Server is not running,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident Descrip
 Incident Type: SAS Server issue
 Resolution Description:Issue is resolved after restarting object spwaner . User has also confirmed the same over email.",AZ Germany, SAS Server Issue
 INC2994039,MAIL2INC - Verdacht auf Störung - SAS Portal lässt sich nicht öffnen - LDB 1621,AZTEC.GAP.PAAS-SAS-CL-2ND,User confirmed to close the ticket. The SAS applications are working fine (email attached).,AZ Germany, SAS Performance
-INC2463554,SAS - Application Virtualization Fehler - Anwendung startet nicht,AZTEC.GAP.PAAS-SAS-CL-2ND,"We have asked the user to refuel SAS EG on his system. As discussed in email conversation and chat, we are closing the ticket.",AZ Germany, SAS AVC Client Issue
+INC2463554,SAS - Application Virtualization Fehler - Anwendung startet nicht,AZTEC.GAP.PAAS-SAS-CL-2ND,"We have asked the user to refuel SAS EG on his system. As discussed in email conversation and chat, we are closing the ticket.",AZ Germany, SAS AVC Client Issue - Vitualization
 INC2708533,MAIL2INC - SAS-EG für SMARTD7  - SETINIT Warnmeldung ...  - expire until April 2,AMOS.BIS.B1-AZD,"04.03.2019 11:19:27   ws_hp_spoc
    (HPINCIDENT)
 Sehr geehrte Damen und Herren,
@@ -2953,16 +2647,8 @@ Resolution : User informed that issue no more exists",AZ Benelux, SAS Others
 INC4772281,SR :File Restore on AZD Dev environment.,AZTEC.GAP.PAAS-SAS-CL-2ND,"Description: SR :File Restore on AZD Dev environment.
 Issue Type: SAS Service Request
 Resolution: Files have been restored successfully by backup team. User has confirmed that everything looks fine.",AZ Germany, SAS Service Requests
-INC2744336,Win7 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,We have provided the correct URL. Issue is resolved. (email attached).,AZ Germany, SAS Access Issue
 INC3031308,"No connection to the AZFRONEBI test server, since friday",AZTEC.GAP.PAAS-SAS-CL-2ND,"After restarting the objectspawner, the user is able to connect again",AZ France, SAS Server Issue
 INC2901890,ERROR TO LAUNCH SOFTWARE SAS Company GUIDE BIFI  via Virtual Office AVC,AZTEC.GAP.PAAS-SAS-CL-2ND,Issue resolved. User was able to access and configure SAS EG.,AZ France, SAS AVC Client Issue
-INC3541273,Win7 - SAS Anwendungen SAS Enterprise Guide Fehler,AZTEC.GAP.PAAS-SAS-CL-2ND,"
-The profile has not been selected and after connecting it worked fine.",AZ Germany, SAS Others
-INC3248227,Win10 - SAS Anwendungen,CSC.WPS.AVC-CLIENT,,AZ Germany, SAS AVC Client Issue
-INC3346301,Win10 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,"
-Issue is solved with the new Zovi release. Please feel free to reach us if you have any concern.
-
-",AZ Germany, SAS Access Issue
 INC2474588,Activate TLS 1.2 in the Secure+ GUI for the C:D nodes,AZTEC.GAP.PAAS-SAS-CL-2ND,"As there is a downtime in C:D required when implementing this upgrade we decided to integrate this activity in the next general downtime on BIFI servers which will take place in May.
 An detailed planning will start these days.
 
@@ -2972,20 +2658,13 @@ Regards
 
 
 Dietrich Hellmuth –CPI.",AZ Germany, SAS Others
-INC3164448,SAS Anwendungen - AKS Login,AZTEC.GAP.PAAS-SAS-CL-2ND,"We could see that this issue is not related to SAS. Please contact your legba for smartcard  related issues. For any issue related to AKS application, please contact the F group AMOS.BIS.B4-IPC.",AZ Germany, SAS Access Issue
 INC2544817,"SAS AMO Excel 7.14"" not working in Windows 10 AVC",AZTEC.GAP.PAAS-SAS-CL-2ND,"The Reporting Package is till not in production. User is using WIN7 as well.
 
 We informed the user that we are working on INT currently regarding the SAS M5 Package.",AZ Asia Pacific, SAS AVC Client Issue
-INC4379389,Win10 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident Description: SAS Server connectivity issue AZD prod.
-Issue Type: SAS Server Issue
-Resolution Steps: Issue is resolved now . All the services are up and running now
-Issue was caused due to server crash . IBM team will investigate further for root cause.",AZ Germany, SAS Server Issue
 INC3541043,SAS Project can not open,AZTEC.GAP.PAAS-SAS-CL-2ND,"Issue has been resolved after restarting the object Spwaner for v7fkrb on Production environment.
 
 After restarts user has confirmed that he can access the project now successfully.",AZ Germany, SAS Platform Access/Availability
 INC3530481,File Restore,AZTEC.GAP.PAAS-SAS-CL-2ND,File has been restored successfully by backup Team and the same has been confirmed with user .,AZ Germany, SAS Service Requests
-INC4338559,Win10 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,"Issue with users SAS EG connectivity.
-We have noticed user was using wrong profile. Now all fine after choosing correct connection profile.",AZ Germany, SAS Server Issue
 INC3314072,Win10 - SAS Enterprise Guide,AZTEC.GAP.PAAS-SAS-CL-2ND,"Issue was fixed with the new Zovi release. 
 Received confirmation from the user.
 
@@ -2995,19 +2674,11 @@ INC3530427,File Restore,AZTEC.GAP.PAAS-SAS-CL-2ND,User confirmed that the restor
 INC3530500,File Restore,AZTEC.GAP.PAAS-SAS-CL-2ND,File has been restored successfully by backup team  and same has been confirmed with user.,AZ Germany, SAS Service Requests
 INC3911226,RW Datenkreislauf steht - eventuell Server Problem,AZTEC.GAP.PAAS-SAS-CL-2ND,"Issue with GPFS and System was rebooted.
 ",AZ E1 FRANKFURT,SAS GPFS
-INC4178969,SAS Anwendungen - Informationen,AZTEC.GAP.PAAS-SAS-CL-2ND,"Description : Unable to see library contents
-Type: access issue
-Resolution : User is able to view the contents after preassigning the library",AZ Germany, SAS Access Issue
 INC3358752,Win10 - SAS DI Studio,AZTEC.GAP.PAAS-SAS-CL-2ND,"We have restarted the ObjectSpawner and DI studio is working fine now. Based on user confirmation, we are closing the ticket",AZ Germany, SAS Server Issue
-INC3819850,Win7 - SAS Anwendungen Fehler,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident Description: Not able to connect to apkvfb server using SAS Enterpriseguide on Dev enviornmrnt.
-Incident Description: Server issue
-Resolution description: After restarting the object spwaner service it is working fine and user has confirmed the same over jabber.",AZ Germany, SAS Platform Access/Availability
 INC3583231,PLEBEN AGENTEN not active,AZTEC.GAP.PAAS-SAS-CL-2ND,"SGRID_BIEC_SYST is our test server and we have scheduled maintenance mode on  uc4 services in this server cluster. Hence we are closing this ticket.
 
 ",AZ Germany, SAS -   UC4  Job Issues
 INC2986355,SAS Enterprise Guide,AZTEC.GAP.PAAS-SAS-CL-2ND,Guided user to contact LegBA to get access to UNIX server.,AZ Germany, SAS Access Issue
-INC3814898,SAS Anwendungen - Fehler Code: SAS RC=252; SAS RC = 2,AZTEC.GAP.PAAS-SAS-CL-2ND,"Issue with GPFS PAnic.
-Resolved after Spawner restart.",AZ Germany, SAS Platform Access/Availability
 INC3705314,Quota increase DMVERT ,AZTEC.GAP.PAAS-SAS-CL-2ND,"
 Description: Quota increase DMVERT project
 
@@ -3028,7 +2699,7 @@ Resolution Steps:  work quota has been increased for project p8kaa based on the 
 INC3983622,Quota Change bisfb,AZTEC.GAP.PAAS-SAS-CL-2ND,"Issue Description: Quota Change bisfb
 Issue Type: SAS FileSystem/quota
 Resolution Steps: Quota has been modified for bisfb project based on SR provided.",AZ Germany, SAS Service Requests
-INC2443304,SAS - Application Virtualization Fehler - Anwendung startet nicht,AZTEC.GAP.PAAS-SAS-CL-2ND,We have guided user to reinstall the SAS EG on this local machine (email attached).,AZ Germany, SAS AVC Client Issue
+INC2443304,SAS - Application Virtualization Fehler - Anwendung startet nicht,AZTEC.GAP.PAAS-SAS-CL-2ND,We have guided user to reinstall the SAS EG on this local machine (email attached).,AZ Germany, SAS AVC Client Issue - Vitualization
 INC3756369,TNS entries for SAS ,AZTEC.GAP.PAAS-SAS-CL-2ND,"Description:  TNS entry needs to be added in tnsnames.ora
 Incident Type: SAS Database.
 Resolution Steps: New entry has been added in tnsnames.ora file. User has also confirmed that new entry is working fine.",AZ Benelux, SAS Database
@@ -3078,40 +2749,7 @@ Resolution : request completed",AZ Technology, SAS Filesystem/Quota
 INC4129050,Please Remove Obsoleted artifiacts ,AZTEC.GAP.PAAS-SAS-CL-2ND,"Descriptio : Please Remove Obsoleted artifiacts 
 Type : Service Request
 Resolution: request completed",AZ Benelux, SAS Service Requests
-INC3206384,Add TNS Entries to SAS Servers,AZTEC.GAP.PAAS-SAS-CL-2ND,"As per user confirmation, TNS connections are working fine.",AZ Benelux, SAS Service Requests
-INC3456897,Win7 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,"The issue was caused due to firewall issue (P1: INC3456216).
-Closing the incident after getting confirmation from that she is now able to access https://biec.srv.allianz/SASPortal .
-",AZ Germany, SAS Portal issue
-INC2714104,SAS Anwendungen - Informationen,AMOS.BIS.B1-AZD,"05.03.2019 11:42:30   ws_hp_spoc
-   (HPINCIDENT)
-Benutzte LDB-ID: 25697
-
-Welche Aktion hat das Problem ausgelöst? -
-Wann ist das Problem aufgetreten? (Datum, Uhrzeit - wenn möglich) seit gestern, since yesterday
-Tritt das Problem auch bei anderen Anwendern auf? alone worker, allein arbeiten
-Tritt das Problem auch an anderen Arbeitsplätzen auf? nein, no
-Tritt das Problem wiederholt auf (bei jedem Versuch)? ja, yes
-Hat sich die Komponente früher fehlerfrei verhalten? nein, no
-
-system environment: development/integration/production ?
-
-affected SAS component: -
-
-affected application/project: -
-
-technical user: -
-
-problem description:
-AWIN hat sich gemeldet, weil sie eine fm bekommen hat: Herstellung ein verbinden¿
-
-AWIN got in touch because she got a fm: making a connect
-err./AV : +49 30 5383 2666
-05.03.2019 14:34:58   ws_snow_prod
-   (SNOW) Dear Team, 
-This is just a license renewal warning message, Please go ahead to continue your work. We have a plan for renewal this license.
-Thank you.
-Regards,
-D Srinivasulu",AZ Germany, SAS Others
+INC3206384,Add TNS Entries to SAS Servers,AZTEC.GAP.PAAS-SAS-CL-2ND,"As per user confirmation, TNS connections are working fine.",AZ Benelux, SAS Database
 INC2727812,SAS Portal -NPS Analyse Stored Process-Fehler,AZTEC.GAP.PAAS-SAS-CL-2ND,"
 We have just found an email that the SAS portal for NPS Report is not available until the beginning of April (see attached).
 
@@ -3157,19 +2795,7 @@ INC4669908,"11.02.01 SAS server, access to files ",AZTEC.GAP.PAAS-SAS-CL-2ND,"Is
 Description : SAS Enterprise Guide displays ""Unable to load the children for the item named Files"" when expanding Libraries or Files
 Resolution : The issue has been resolved after restarting AVC system.",AZ Benelux, SAS Access Issue
 INC3569999,No connection to apkvfb,AZTEC.GAP.PAAS-SAS-CL-2ND,Connection is working fine after ObjectSpawner restart,AZ Germany, SAS Platform Access/Availability
-INC2939213,Win7 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,resolved,AZ Germany, SAS Others
 INC3261709,Win7 - SAS Enterprise Guide startet nicht,AZTEC.GAP.PAAS-SAS-CL-2ND,Resolved,AZ Germany, SAS Others
-INC3969932,Win7 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,"IT: Error while accessing the IMAP studio application.
-D: Unable to access the IMAP studio application.
-R:Issue resolved by users. User confirmed to close the ticket.
-
-Comments:-
-Dear Inala,
-
-today i started the IMAP once again, now it works. There are no more errors in the log.
-
-Thank you and best regards,
-Olga. ",AZ Germany, SAS Others
 INC2744531,SAS Zugriff limitiert,AZTEC.GAP.PAAS-SAS-CL-2ND,"We haven't done anything from our end, issue resolved itself.",AZ Germany, SAS Others
 INC2544398,mismatch between nslookup and bsub about the server sla08896.srv.allianz (10.72.191.105),AZTEC.GAP.PAAS-SAS-CL-2ND,Our engineering team checked the configuration and removed the App9 from all the configuration files.,AZ France, SAS Platform Access/Availability
 INC2504164,"Please create a request ""demand"" to filetransfer team",AZTEC.GAP.PAAS-SAS-CL-2ND,Resolved,AZ France, SAS Service Requests
@@ -3199,20 +2825,13 @@ INC3901649,APP int- SAS FM studio unknown error,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incid
 Resolution : restarted the services",AZ France, SAS Server Issue
 INC2613964,APP - Need full restart on APP PROD,AZTEC.GAP.SASFM-2ND,"As requested, we have restarted the complete APP PROD FM servers. ",AZ France, SAS Service Requests
 INC3397048,APP- SAS FM studio is not working,AZTEC.GAP.PAAS-SAS-CL-2ND,After restarting the WebApp it is working fine.,AZ France, SAS Server Issue
-INC4114693,Win10 - SAS Anwendungen / Anfrage - Applications / request,AZTEC.GAP.PAAS-SAS-CL-2ND,"IT: TNS entries request on AZD DEV,INT and PROD servers.
-D: TNS entries request on AZD DEV,INT and PROD servers.
-R: We have added the given entries to the tnsnames.ora file on DEV, INT and PROD.
-The servers are 
-•         biec-sg-prod.srv.allianz
-•         biec-sg-dev.srv.allianz
-•         biec-sg-int.srv.allianz",AZ Germany, SAS Database
 INC3184898,Access to a new oracle database via SAS,AZTEC.GAP.PAAS-SAS-CL-2ND,"Dear Team,
 We have added DB details in tnsnames.ora file for all the stages as given by user , user confirmed that is working fine all the stages.
 So we're closing this ticket.
 Thank you.
 Regards,
 D Srinivasulu",AZ Germany, SAS  Configuration
-INC2743318,SAS - Application Virtualization Fehler - Anwendung startet nicht,AZTEC.GAP.PAAS-SAS-CL-2ND,After clear the SAS roaming profiles from the local laptop. User was able to access the SAs EG successfully. ,AZ Germany, SAS AVC Client Issue
+INC2743318,SAS - Application Virtualization Fehler - Anwendung startet nicht,AZTEC.GAP.PAAS-SAS-CL-2ND,After clear the SAS roaming profiles from the local laptop. User was able to access the SAs EG successfully. ,AZ Germany, SAS AVC Client Issue - Vitualization
 INC3690279,SAS Enterprise Guide - Servers sind eingefroren,AZTEC.GAP.PAAS-SAS-CL-2ND,"Issue Type: Unable to access SAS EG
 Description: SAS Enterprise Guide - Servers sind eingefroren
 Resolution: No action taken from our end. issue might be due to network issue. After 2 days observation user confirmed to close the ticket.",AZ Germany, SAS Platform Access/Availability
@@ -3243,9 +2862,6 @@ INC2995971,FM studio is not working,AZTEC.GAP.PAAS-SAS-CL-2ND,We have restarted 
 INC4024203,SAS Enterprise support,AZTEC.GAP.PAAS-SAS-CL-2ND,"Issue Type : SAS Access
 Description : unable to connect to SAS EG
 Resolution : User was missing birerung unix group, so we asked user to request through GIAM application. ",AZ Reinsurance, SAS Access Issue
-INC3545434,SAS Anwendungen - Informationen,AZTEC.GAP.PAAS-SAS-CL-2ND,"Issue has been resolved after restarting the object Spwaner service for lfsp project on BIEC production environment.
-
-User has also confirmed the same over email.",AZ Germany, SAS Platform Access/Availability
 INC2957488,SAS-EG-Project not available/corrupt,AZTEC.GAP.PAAS-SAS-CL-2ND,The user have received the backup file and as communicated by the user we are closing this ticket,AZ Germany, SAS Service Requests
 INC3361878,SAS Portal - Anmeldeproblem,AZTEC.GAP.PAAS-SAS-CL-2ND,"Dear Philip, 
 As you requested that access for 'apkvrepg' has been granted our side and we could that privileges are assigned to you. 
@@ -3253,16 +2869,11 @@ Now it should be fine , Please do access SAS EG and let us know if you have any 
 Thank you. 
 Kind Regards, 
 D Srinivasulu",AZ Germany, SAS Access Issue
-INC4632584,Win10 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,"Desc:Win10 - SAS Anwendungen
-Type: SAS others
-Res: User informed that issue has been solved",AZ Technology, SAS Access Issue
-INC4539482,SAS Anwendungen - Informationen,AZTEC.GAP.PAAS-SAS-CL-2ND,"As per user: I think I have got a solution for my problem. Thank you fo your help. You may close the ticket
-",AZ Germany, SAS Performance
 INC4529236,SAS - Application Virtualization Fehler - Anwendung startet nicht,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident Description: SAS - Application Virtualization Fehler - Anwendung startet nicht
 Issue Type: SAS Access Issue.
 Resolution Steps: User was  unable to connect to dmkamp project via SAS EG as user's id jwbvkiu is not yet created on server.Requested user to contact Legba.
 We are closing the ticket as confirmed with user.
-",AZ Germany, SAS Access Issue
+",AZ Germany, SAS AVC Client Issue - Vitualization
 INC3491192,admin stp - Philippe Hoste for this new id (Y9HOST).,AZTEC.GAP.PAAS-SAS-CL-2ND,User confirmed that he is able to access the STP links successfully(email attached) . Hence closing the ticket.,AZ Germany, SAS Access Issue
 INC3651621,Creation of homedir,AZTEC.GAP.PAAS-SAS-CL-2ND,The isuue was fixed yesterday. Closing the ticket based on user confirmation,AZ Germany, SAS Others
 INC2629710,Missing AD group (AVC-P-APPV-SAS94M3_BIFI_REP),AZTEC.GAP.PAAS-SAS-CL-2ND,"Issue is resolved after adding the AD group to the user.
@@ -3324,27 +2935,13 @@ INC2815787,Oracle error,AZTEC.GAP.PAAS-SAS-CL-2ND,After changing the permissions
 INC4241196,SAS Portal Issue,AZTEC.GAP.PAAS-SAS-CL-2ND,"Description ; SAS stored processIssue
 Type: sas others
 Resolution : SAS processes are working fine. Advised the user to contact developer to troubleshoot the stored process",AZ Reinsurance, SAS Portal issue
-INC3023821,Win10 - SAS Anwendungen - Problem mit der Anmeldung,AZTEC.GAP.PAAS-SAS-CL-2ND,We did a restart for the webapp and all the portals are all working fine now. So we are closing this ticket.,AZ Germany, SAS Server Issue
-INC4725917,SAS Anwendungen - Informationen,AZTEC.GAP.PAAS-SAS-CL-2ND,"Description: Storedprocess was not opening.
-Issue Type: SAS Server Issue
-Resolution: The issue was resolved by NAS Team INC4719837  (P2). User has also confirmed the same.",AZ Germany, SAS Platform Access/Availability
 INC3822395,SAS / Statuscode: 403 Forbidden (See Attachment),AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident Type : SAS server issue
 Resolution : The issue was due to wrong mounting of Filesystem on Web Server. This was corrected with INC3823495",AZ Germany, SAS Performance
-INC4568210,SAS Enterprise Guide - COM-Klassenfactory ... konnte nicht abgerufen werden,AZTEC.GAP.PAAS-SAS-CL-2ND,"Description:Unable to connect
-Type:SAS server issue
-Resolution: jobs working fine after objectspawner restart",AZ Germany, SAS Server Issue
 INC2474722,Win7 - SAS https://biec.srv.allianz/SASPortal/main.do kann nicht gefunden werden,AZTEC.GAP.PAAS-SAS-CL-2ND,"After restarting the ObjectSpawner, the issue is resolved and confirmed the same from the user.",AZ Germany, SAS Portal issue
-INC2706920,Win7 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,TU=BISFB has Expired,AZ Germany, SAS Server Issue
-INC2998750,Win7 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,The user has confirmed that the performance is good now. Hence we are closing the ticket.,AZ Germany, SAS Performance
 INC3945729,SAS Enterprise Guide -  Fehler,AZTEC.GAP.PAAS-SAS-CL-2ND,"IT: Connectivity Issue.
 D: User was unable to switch between environments (AZD Prod to AZD INT) in SAS EG via rsubmit code.
 R: We find issue with ConnectSpawner in the App1-INT and after restart of the ConnectSpwaner on App1-INT the issue is resolved.",AZ Germany, SAS Server Issue
-INC4722972,SAS Anwendungen - Informationen,AZTEC.GAP.PAAS-SAS-CL-2ND,"Description :SAS EnterprisesGuide  does not work properly 
-Issue Type : SAS Storage issue
-Resolution steps : Issue has been resolved  by NAS team by removing  the deadlock . User has confirmed  that now SS EG works perfectly . ",AZ Germany, SAS Platform Access/Availability
-INC3816730,SAS Anwendungen - Informationen,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident Type : sas server issue
-Resolution : ObjectSpawner was restarted",AZ Germany, SAS Platform Access/Availability
-INC3431915,PROD & SI SAS jobs gets Stucked & not progressed anymore,AZTEC.GAP.PAAS-SAS-CL-2ND,No issue was reported on Monday. So we are closing the ticket,AZ Reinsurance, SAS UC4 Job Creation
+INC3431915,PROD & SI SAS jobs gets Stucked & not progressed anymore,AZTEC.GAP.PAAS-SAS-CL-2ND,No issue was reported on Monday. So we are closing the ticket,AZ Reinsurance, SAS Performance
 INC3900435,SAS job got Stucked & not progressed anymore in PRODUCTION environment.,AZTEC.GAP.PAAS-SAS-CL-2ND,"Description : SAS job got Stucked & not progressed anymore in PRODUCTION environment.
 Type : Performace
 Resolution : performance improved",AZ Reinsurance, SAS Platform Access/Availability
@@ -3388,11 +2985,6 @@ As per our conversation, we could see that you don't have access to ""apkvrep De
 I have provided you the role temporarily for today. 
 
 Please contact your application Owner to get the access permanently.",AZ Germany, SAS Platform Access/Availability
-INC4379237,SAS Enterprise Guide - COM-Klassenfactory ... konnte nicht abgerufen werden,AZTEC.GAP.PAAS-SAS-CL-2ND,"Description: SAS metadata not connecting
-Type: SAS Platform issue
-Resolution : Server got crashed. Corrected by IBM",AZ Germany, SAS Platform Access/Availability
-INC3952349,Win7 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,"Issue with hanging STP server.
-Spwaner was restarted.",AZ Germany, SAS Platform Access/Availability
 INC3816660,SAS - Enterprise guide - do not start,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident Type : Sas server issue
 Resolution : The issue has been resolved after ObectSpawner restart of Gaoem",AZ Germany, SAS Server Issue
 INC2429741,SAS Portal - problems to connect in enterprise guide sas bifi,AZTEC.GAP.PAAS-SAS-CL-2ND,"Dear Team,
@@ -3469,7 +3061,6 @@ SGRID_BIAA_1_E2_SYST - 10.167.189.244
 SGRID_BIAA_1_E1_SYST - 10.166.190.182
 23.07.2019 14:24:35   uhmdr9b
    Both removed from UC4",AZ Technology, SAS -   UC4  Job Issues
-INC3159594,Win10 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,User is missing basic Linux rights. Advised the user to contact legba for getting the required rights,AZ Germany, SAS Access Issue
 INC3160786,Stored Process not working,AZTEC.GAP.PAAS-SAS-CL-2ND,This occurred as  we had SAS M6 version upgrade  on BIAA PROD. After the change everything is working fine and we are closing the ticket on user confirmation,AZ UK, SAS Portal issue
 INC2593362,ActDWH - Data repository: SAS libraries assigment,AZTEC.GAP.PAAS-SAS-CL-2ND,We have imported the package on BISHR PROD and looks good. (email attached),AZ Germany, SAS  Configuration
 INC2903161,SAS FM / COP - usage of the excel addin,AZTEC.GAP.SASFM-2ND,Advised user to contact LegBA to get the required AD group added to his Bensl id.,AZ France,
@@ -3507,9 +3098,6 @@ INC3696584,in SAS DI - i lost access to DEV and PROD,AZTEC.GAP.PAAS-SAS-CL-2ND,"
 resolution : Based on our webex communication, we are closing the ticket as the profiles can now be saved",AZ Benelux, SAS Access Issue
 INC2792439,"SR:: SAS DI - setup ODBC to MSSQL:: DEV , INT, PROD",AZTEC.GAP.PAAS-SAS-CL-2ND,User confirmed that the connections are working fine. (email attached).,AZ Germany, SAS Database
 INC3413948,SASMacros XLA wurde nicht gefunden,AZTEC.GAP.PAAS-SAS-CL-2ND,Issue resolved by user and confirmed to close the ticket (email attached).,AZ Germany, SAS Others
-INC4406192,SAS Anwendungen - Informationen,AZTEC.GAP.PAAS-SAS-CL-2ND,"IT: Unable to access project in SAS EG.
-D: Unable to access project in SAS EG.
-R: After SAVI team seperated the user ids and the group ids in ALEF DB, user was able to access the project sucessfully in SAS EG.",AZ Germany, SAS Access Issue
 INC3899174,Appv profiles are not synching,AZTEC.GAP.PAAS-SAS-CL-2ND,"
 
 
@@ -3580,7 +3168,6 @@ D: BIFI access is not working
 R: Advised user to raise a GIAM request to get the access.",AZ Benelux, SAS Access Issue
 INC3634846,SAS Portal not working,AZTEC.GAP.PAAS-SAS-CL-2ND,STP server was hanging . Working fine after restart,AZ Reinsurance, SAS Server Issue
 INC2466704,Reports not running,AZTEC.GAP.PAAS-SAS-CL-2ND,The issue has been resolved,AZ Asia Pacific, SAS Performance
-INC3232662,SAS Anwendungen - Informationen,AZTEC.GAP.PAAS-SAS-CL-2ND,"As per user confirmation, the issue is no more exist. it is resolved automatically. SAS EG is working fine, so we are closing the ticket as of now.",AZ Germany, SAS Others
 INC2963828,Office 2010 - SAS Add-in for MS Office hat ein Problem festgestellt,AZTEC.GAP.PAAS-SAS-CL-2ND,"As per our conversation through WebEx, we could see that you are exporting to xlsx a 1million record. 
 
 Which is not possible in SAS as it have a limitation. So, we suggested to use to export to CSV. 
@@ -3708,7 +3295,6 @@ D Srinivasulu",AZ Benelux, SAS Performance
 INC2444217,Urgent request restore file /project/bishr/ azbnl/prod/ sasdb/DW/NL/xdw.sas.nareweek/ ptf.sas7bdat  ,AZTEC.GAP.PAAS-SAS-CL-2ND,User confirmed the restore looks good and to close the ticket (email attached).,AZ Benelux, SAS Service Requests
 INC3097069,BIFI platform and EG very slow,AZTEC.GAP.PAAS-SAS-CL-2ND,This ticket is a duplicate of INC3096999,AZ Germany, SAS Performance
 INC2822422,Restore for SAS Bifi PROD ,AZTEC.GAP.PAAS-SAS-CL-2ND,"The request has been completed and upon user confirmation, I am closing the ticket",AZ Benelux, SAS Service Requests
-INC3089719,SAS Anwendungen startet nicht- verdacht auf Großstörung,AZTEC.GAP.PAAS-SAS-CL-2ND,The issue is already resolved with master ticket -INC3089592,AZ Germany, SAS Server Issue
 INC3417793,SAS portal issue,AZTEC.GAP.PAAS-SAS-CL-2ND,"GIAM team resolved the issue. We hope no concerns from your side. 
 We are closing the ticket for now. Please raise a new ticket for any further assistance.",AZ Reinsurance, SAS Portal issue
 INC3501282,SAS portal issue !,AZTEC.GAP.PAAS-SAS-CL-2ND,The issue has been resolved,AZ Reinsurance, SAS Portal issue
@@ -3721,8 +3307,7 @@ Regards,
 D Srinivasulu",AZ Reinsurance, SAS Performance
 INC3582784,SAS Portal issue,AZTEC.GAP.PAAS-SAS-CL-2ND,Resolved.,AZ Reinsurance, SAS Portal issue
 INC3483625,Access to TDBPCE on SI,AZTEC.GAP.PAAS-SAS-CL-2ND,User is able to access the tdbpce project now. Confirmed by user via email (attached).,AZ Reinsurance, SAS Access Issue
-INC3019747,Win7 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,Resolved,AZ Germany, SAS Server Issue
-INC3528136,SAS - Application Virtualization Fehler - Anwendung startet nicht /  24/5000 App,AZTEC.GAP.PAAS-SAS-CL-2ND,We have restarted the AZD Prod Web Portals.,AZ Germany, SAS Server Issue
+INC3528136,SAS - Application Virtualization Fehler - Anwendung startet nicht /  24/5000 App,AZTEC.GAP.PAAS-SAS-CL-2ND,We have restarted the AZD Prod Web Portals.,AZ Germany, SAS AVC Client Issue - Vitualization
 INC3717476,SAS Add-in missing in APCDM (Bin Nauman),AZTEC.GAP.PAAS-SAS-CL-2ND,"
 Description: SAS Addin was not visible SAS AMO Excel 94M6
 
@@ -3732,48 +3317,13 @@ Now user can view SAS tab in SAS AMO Excel 94M6.
 Closing this incident confirming with user.
 
 ",AZ Reinsurance, SAS Others
-INC3011922,SAS Anwendungen - startet nicht,AZTEC.GAP.PAAS-SAS-CL-2ND,"Dear Sebastian,
-Thank for the update.
-Please reach us if you have any queries @ PAAS-SAS-CLASSIC-OPERATIONS@allianz.com
-So as of now we're closing this ticket.
-Kind Regards,
-D Srinivasulu
---------------------------------
-From: Fahrentholz, Sebastian (Allianz Deutschland) 
-Sent: Tuesday, April 30, 2019 2:30 PM
-To: PAAS-SAS-CLASSIC-OPERATIONS@allianz.com
-Subject: AW: Incident INC3011922 has been assigned to your queue.
-Hi, 
-sorry but I was in a talk.
-Thank you for your quick answer. The server is now available and I can work now. The performance isn't quick, but OK.
-Thank you for your help!  
-Kind regards
-Sebastian Fahrentholz
-Allianz Versicherungs-AG
-Sach-Finanzen (S-Fin) - Statistik und Datenanalyse (S/D)
-Referent Firmenkunden / KIS
-??Königinstr.28, 80802 München (Anschrift)
-??Dieselstr.8, 85774 Unterföhring (Büro)
-??+49.89.3800 60227 (phone) 
-??+49.89.3800 860227 (fax)
-@    sebastian.fahrentholz@allianz.de
-
-
-",AZ Germany, SAS Performance
 INC3775315,SAS Enterprise Guide,AZTEC.GAP.PAAS-SAS-CL-2ND,"Issue Type : Oracle Database
 
 Description : User is geting Oracle error while executing SAS query through SAS EG.
 ERROR: ORACLE connection error: ORA-01017: invalid username/password; logon 
 
 Resoultion : We have suggested user to check the issue with Oracle DBA team.",AZ Germany, SAS Database
-INC4665233,Win10 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,"Desc:Request for Storage report
-Type: sas access issue
-Resolution : Adviced the user to get metdata access and provided details",AZ Germany, SAS Access Issue
-INC3274469,SAS Anwendungen - Owner hinzuhigen,AZTEC.GAP.PAAS-SAS-CL-2ND,"Request has been completed and confirmed same from the user.
-
-Thanks.",AZ Germany, SAS Access Issue
 INC2993938,SAS Enterprise Guide  - Ausfall - leere Seite kommt,AZTEC.GAP.PAAS-SAS-CL-2ND,"As per user confirmation, the problem is solved now. PFA mail confirmation for the same.",AZ Germany, SAS Performance
-INC3158903,Win10 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,After restart of the gassach project ObjectSpawner the issue is resolved. User was able to access the stored process URL successfully.,AZ Germany, SAS Server Issue
 INC3820942,SR: configure SAS library for BISH2 9.4 INT and BISHR 9.4 PROD agaact project,AZTEC.GAP.PAAS-SAS-CL-2ND,"Issue Type : Service Request
 Description :  configure SAS library ACTTRF for BISH2 9.4 INT and BISHR 9.4 PROD agaact project
 Resolution : As requested, we have created ACTTRF library on BISHR PROD & BISH2 INT Server for agaact project.",AZ Benelux, SAS Database
@@ -3797,14 +3347,13 @@ As there was high system load on the whole cluster, so the jobs were running slo
 On these days all resources (e.g. cpu, network, file system, databases) are highly utilized. Therefore it  can be that the runtimes increase significantly. 
 Now the system load become normal , jobs are running fine. User has confirmed that we can close the incident.",AZ UK, SAS Performance
 INC3009233,Change Task Not Visible ,AZTEC.GAP.PAAS-SAS-CL-2ND,Issue is resolved.,AZ Technology, SAS Others
-INC3378430,Win7 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,Issue resolved by user itself and confirmed to close the ticket (email attached).,AZ Germany, SAS Access Issue
 INC3201613,SAS Enterprise Guide - BI Basisschicht,AZTEC.GAP.PAAS-SAS-CL-2ND,Resolved,AZ Germany, SAS Others
 INC2763205,SAS Portal - Anmeldeproblem: access restricted,AZTEC.GAP.PAAS-SAS-CL-2ND,"As per taken WebEx, user was using wrong SAS URL. we have provided correct SAS URL and the issue is no more exist now.
 
 https://biec.srv.allianz/SASPortal/main.do",AZ Germany, SAS Portal issue
 INC3870848,need contents from var/log/messages between 18/Nov/2019 16:00:00 to 17:00:00 for kfrar003,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident description: Need contents from /var/log/messages between 18/Nov/2019 16:00:00 to 17:00:00 for kfrar003
 Incident Type: SAS Other
-Resolution Description: Provided required information to user as requested .",AZ Germany,
+Resolution Description: Provided required information to user as requested .",AZ Germany,sas configuration
 INC4394836,Error in TNSNAMES.ora,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident Description: Error in TNSNAMES.ora
 Issue Type: SAS database
 REsolution Steps: As discussed with user over jabber, issue is resolved now, User can able to connect to DB",AZ Germany, SAS Database
@@ -4139,16 +3688,7 @@ Source Path
 Destination Path
 /var/opt/data/data_project/etlight/bin/app/ESA/restore",AZ Germany, SAS Service Requests
 INC3420011,Issues with SAS production,AZTEC.GAP.PAAS-SAS-CL-2ND,The issue has been resolved,AZ Reinsurance, SAS Access Issue
-INC4379941,SAS Enterprise Guide - COM-Klassenfactory ... konnte nicht abgerufen werden,AZTEC.GAP.PAAS-SAS-CL-2ND,"Description: SAS metadata not connecting
-Type: SAS Platform issue
-Resolution : Server got crashed. Corrected by IBM",AZ Germany, SAS Platform Access/Availability
-INC3089745,SAS Anwendungen enterprise guide,CSC.WPS.AVC-CLIENT,,AZ Germany,
-INC2653423,SAS - Application Virtualization Fehler - Anwendung startet nicht,AZTEC.GAP.PAAS-SAS-CL-2ND,Advised user to re-install the SAS EG by contacting his local IT team (email attached).,AZ Germany, SAS AVC Client Issue
-INC3385473,SAS Anwendungen - Enterprise Guide_Fehler beim Speicher des Projekts,AZTEC.GAP.PAAS-SAS-CL-2ND,"Dear Colleague,
-
-After the Zovi update, user was able to save the project.
-
-User also confirmed the same. Thaks.",AZ Germany,
+INC2653423,SAS - Application Virtualization Fehler - Anwendung startet nicht,AZTEC.GAP.PAAS-SAS-CL-2ND,Advised user to re-install the SAS EG by contacting his local IT team (email attached).,AZ Germany, SAS AVC Client Issue - Vitualization
 INC2472348,SAS - Enterprise Guide Server nicht gefunden,AZTEC.GAP.PAAS-SAS-CL-2ND,"User SAS metadata profile was in inactive mode. The issue was resolved after making in active mode. 
 As per user confirmation the issue is no more exist.",AZ Germany, SAS Access Issue
 INC3818113,Kein Zugriff auf Server,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident Description: Storedprocess was not opening for smartd7 project on INT stage.
@@ -4160,9 +3700,6 @@ This issue happened due to the App1 is not reachable, due to backup utilized hig
 
 ",AZ Germany, SAS Server Issue
 INC3667709,Win7 - SAS Stored process server problem.,AZTEC.GAP.PAAS-SAS-CL-2ND,Resolved,AZ Germany, SAS Server Issue
-INC4558209,SAS Anwendungen - Informationen,AZTEC.GAP.PAAS-SAS-CL-2ND,"Description :Server not connecting
-type: server issue
-Resolution : As the project is working fine after ObjectSpawner restart, we are closing this ticket",AZ Germany, SAS Server Issue
 INC4092035,WinSCP startet nicht,AZTEC.GAP.PAAS-SAS-CL-2ND,"Description : error in winscp
 Type : Others
 Resolution : when clicking directly, user is able to open the application",AZ Germany, SAS Others
@@ -4187,7 +3724,7 @@ Resolution Steps :The error is related to change CHG0120556. Due to big workload
 INC3477897,This is a reference incident  to a problem ticket for GPFS issue occurred on ibifi-sas94-app6-prod.srv.allianz,AZTEC.GAP.PAAS-SAS-CL-2ND,Closing this incident as this is a reference incident for a problem ticket.,AZ Technology, SAS GPFS
 INC3431351,Job not getting execute,AZTEC.GAP.PAAS-SAS-CL-2ND,"Dear Team,
 waiting occurrences have been canceled, job has been unblocked, job should run as per next schedule 8/16/2019 10:00:00 PM
-Regards",AZ Technology, SAS UC4 Job Creation
+Regards",AZ Technology,
 INC4068413,Italy users onboarding to the  SAS PaaS Platform,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident Description: Italy users onboarding to the  SAS PaaS Platform
 Issue Type: Service Request
 Resolution Description: All the users have been onboarded as requested",AZ Technology, SAS Service Requests
@@ -4218,7 +3755,7 @@ Resolution Description: IBM team has extended (INC3919782) /opt/hds by 15GB on c
 
 [root@cpfe1003 ~]# df -h /opt/hds
 Filesystem            Size  Used Avail Use% Mounted on
-/dev/mapper/rhel-hds   74G   59G   12G  84% /opt/hds",AZ Technology, sas configuration
+/dev/mapper/rhel-hds   74G   59G   12G  84% /opt/hds",AZ Technology, sas Backup
 INC4291581,EDS file syetem not mounted on few Inte servers after patching,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident Desription: EDS file syetem not mounted on few Inte servers after patching
 Issue Type: SAS Server issue
 REsolution Steps: After reboot the issue has been resolved .All sas services have been started . Everything is up and running fine",AZ Technology, SAS Server Issue
@@ -4272,16 +3809,6 @@ INC3096287,Admin rights on AO AVC Machine xde1-p00006 (server bensl id - server-
 INC4233111, AD group access for SAS PC ,AZTEC.GAP.PAAS-SAS-CL-2ND,"Issue Type  : Service request
 Description :  AD group access for SAS PC package",AZ Technology, SAS Access Issue
 INC2843946,monitoring backup service DSMCAD,AZTEC.GAP.PAAS-SAS-CL-2ND,monitoring of backup service DSMCAD has been implemented by backup team.,AZ Technology, SAS Others
-INC2909158,Win10 - SAS Anwendungen - Antragsbuch,AZTEC.GAP.PAAS-SAS-CL-2ND,"Dear Team,
-Issue is fixed by user side, same has been conveyed through mail.
-Great, Thanks for the confirmation. Please reach us if you have any queries @ PAAS-SAS-CLASSIC-OPERATIONS@allianz.com
-So we're closing this ticket.
-Kind Regards,
-D Srinivasulu
-
-",AZ Germany, SAS Access Issue
-INC3634453,SAS Anwendungen - kein server zugriff,AZTEC.GAP.PAAS-SAS-CL-2ND,"After reducing the load on the CPU, we are able to restart the Spawner for the project abrabs on AZD PROD. User confirmed that hte issue is resolved and ticket can be closed.",AZ Germany, SAS Platform Access/Availability
-INC2755742,Win7 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,Resolved,AZ Germany, SAS LSF
 INC2936416,SAS Enterprise Einstellungen,AZTEC.GAP.PAAS-SAS-CL-2ND,No actions taken. User said that the issue resolved automatically. Hence closing the ticket.,AZ Germany, SAS Access Issue
 INC2969993,SAS  - Anwendung startet nicht,AZTEC.GAP.PAAS-SAS-CL-2ND,"The issue is resolved. Upon user confirmation, we are closing this ticket",AZ Germany, SAS Access Issue
 INC3546159,File Restore,AZTEC.GAP.PAAS-SAS-CL-2ND,"File has been restored successfully by Backup Team.
@@ -4291,15 +3818,9 @@ INC3546159,File Restore,AZTEC.GAP.PAAS-SAS-CL-2ND,"File has been restored succes
 total 5408
 -rw-r--r-- 1 g0303 bisfbg 5506902 Mar  6  2019 erg_sbbsbs33_2017.zip
 ",AZ Germany, SAS Others
-INC4566615,SAS Anwendungen - Informationen,AZTEC.GAP.PAAS-SAS-CL-2ND,"User confirmed that SAS is working again now hence closing the ticket. 
-
-Actual issue Reference ticket: INC4565991",AZ Germany, SAS Platform Access/Availability
 INC3769843,SAS  Anwendung startet nicht,AZTEC.GAP.PAAS-SAS-CL-2ND,"Description: SAS Code was running for long time
 Issue Type: Performance Issue
 Resolution: User has confirmed that SAS Code has been executed successfully. It took more time due to high CPU Utilization on the server.",AZ Germany, SAS Performance
-INC4752767,Win10 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident Description: Timeout during initialization error while connecting SAS EnterpriseGuide,
-Issue Type: SAS Server Issue
-Resolution Type: Issue has been resolved after restarting object spwaner of apkrev project in production environment.User has confirmed the same over Jabber.",AZ Germany, SAS Server Issue
 INC3657075,Source catalog is missing in the development format,AZTEC.GAP.PAAS-SAS-CL-2ND,Requested catalog is restored.,AZ UK, SAS Service Requests
 INC3629169,Please restore the data in the below Dev and UAT path,AZTEC.GAP.PAAS-SAS-CL-2ND,"Already worked on the below incidents individually.
 INC3621538--REQ0949755
@@ -4372,17 +3893,8 @@ Issue Type: SAS database
 Resolution Steps: As requested new entry has been added tnsnames.ora file in production environment. Customer also confirmed the same over email",AZ Germany, SAS Database
 INC3090050,SAS Enterprise Guide - Anwendung startet nicht - Unerwartetes Token,CSC.WPS.AVC-CLIENT,,AZ Germany,
 INC3078320,Win10 - In SAS Enterprise Guide kann Projekte nicht geöffnet werden,AZTEC.GAP.PAAS-SAS-CL-2ND,Unable to contact the user by all means. Hence closing the ticket.,AZ Germany, SAS Access Issue
-INC2731554,SAS Anwendungen - Installation,AZTEC.GAP.PAAS-SAS-CL-2ND,"Dear Team,
-User getting popup message due to Tools--Options--General tab - Automatically check for update option is enable. So requested user to disable option and work on as per user requirement.
-Now popup disappeared from user side, So we're closing this ticket with user acceptance.
-Thank you.
-Regards,
-D Srinivasulu",AZ Germany, SAS AVC Client Issue
-INC2474705,SAS - Application Virtualization Fehler - Anwendung startet nicht,AZTEC.GAP.PAAS-SAS-CL-2ND,"We have asked the user to refuel SAS EG on his system. Since there is no reply from the customer after that, we are closing the ticket as mentioned in the email conversation.",AZ Germany, SAS AVC Client Issue
-INC2647597,SAS - Application Virtualization Fehler - Anwendung startet nicht,AZTEC.GAP.PAAS-SAS-CL-2ND,Informed user to follow the process. sent email..,AZ Germany, SAS AVC Client Issue
-INC4379181,Win10 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,"Description : Win10 - SAS Anwendungen
-Type: sas pllatform
-Resolution : Restarted services",AZ Germany, SAS Server Issue
+INC2474705,SAS - Application Virtualization Fehler - Anwendung startet nicht,AZTEC.GAP.PAAS-SAS-CL-2ND,"We have asked the user to refuel SAS EG on his system. Since there is no reply from the customer after that, we are closing the ticket as mentioned in the email conversation.",AZ Germany, SAS AVC Client Issue - Vitualization
+INC2647597,SAS - Application Virtualization Fehler - Anwendung startet nicht,AZTEC.GAP.PAAS-SAS-CL-2ND,Informed user to follow the process. sent email..,AZ Germany, SAS AVC Client Issue - Vitualization
 INC2539220,Access issue to SAS portal,AZTEC.GAP.PAAS-SAS-CL-2ND,The user was already having all the access. But the tabs were missing. So they were added remotely.,AZ Reinsurance, SAS Access Issue
 INC2935085,SR: create user HUYNHTR on sas,AZTEC.GAP.PAAS-SAS-CL-2ND,"Dear Team,
 User order the SAS role with ""y4wyhwf "", So no action is required from SAS 2nd level side. We're closing this ticket same has been confirmed by user as well via mail.PFA.
@@ -4397,31 +3909,7 @@ Regards,
 D Srinivasulu",AZ Germany, SAS Server Issue
 INC3013395,Unix Serverausfall,AZTEC.GAP.PAAS-SAS-CL-2ND,"Dear Udo,
 Hope issue resolved from your side, no response received. Hence closing the ticket, please raise a new ticket for any further assistance.",AZ Germany, SAS Linux Server
-INC3099331,SAS Anwendungen - Informationen,AZTEC.GAP.PAAS-SAS-CL-2ND,"Dear Udo,
-Thanks for the update that you're working again SAS.
-----------------------------------------
-Hallo,
-all works fine.
-Thank  you.
-Kind Regards 
-Udo Dittberner
----------------------------------------------
-So we're closing this ticket.
-Regards,
-D Srinivasulu
-",AZ Germany, SAS Access Issue
 INC2932644,SAS Enterprise Guide - Server steht nicht zur Verfügung,AZTEC.GAP.PAAS-SAS-CL-2ND,"The issue is resolved after restart of the AZD DEV, INT and PROD UNIX servers.",AZ Germany, SAS Server Issue
-INC3789955,Win10 - SAS Anwendungen -Aw möchtete diese Anwendungen wieder zu haben,AZTEC.GAP.PAAS-SAS-CL-2ND,"
-Summary: SAS EG pacakge was not same in AZD laptop and Azd basisclient
-Description: Requested Package Team to update the version.
-Resolution: Thorsten have updated the package on AZD basis client and now we could see the same version as in AZD Laptop.",AZ Germany, SAS Others
-INC3547138,Win10 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,"Dear Ulrike,
-As per telephonic discussion, After spawner restart now you're able to access the lfk context from SAS EG.  
-So issue has been resolved and we're closing this ticket.
-Thank you.
-Kind Regards,
-D Srinivasulu
-",AZ Germany, SAS Access Issue
 INC4103088,Batch Jobs Failing due to space issue,AZTEC.GAP.PAAS-SAS-CL-2ND,"IT: Space issue.
 D: Batch Jobs Failing due to space issue.
 R: Investigated and provided the reason for the failure.
@@ -4442,7 +3930,6 @@ Res: advised user to get mor workspace",AZ UK, SAS Performance
 INC3788730,PAAS-kill the process 1931225 ,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident Description: Process needs to be killed  due to lock issue
 Incident Type: Job Lock issue
 Resolution Steps: As requested , process has been killed and informed to user.",AZ UK, SAS Performance
-INC3911401,SAS Anwendungen - Informationen,AZTEC.GAP.PAAS-SAS-CL-2ND,GPFS issues on server. Server was rebooted...no issues :-),AZ Germany, SAS Server Issue
 INC2922267,"SAS enterprise guide - dateien, ordner wird nicht angezeigt nac h win 10 umst.",AZTEC.GAP.PAAS-SAS-CL-2ND,"As per the new release .egp files are opening and The problem (c: / temp) is also fixed.
 
 Informed and confirmed the same from user. Thanks.",AZ Germany, SAS AVC Client Issue
@@ -4457,12 +3944,6 @@ INC2546439,PAAS applications,AZTEC.GAP.PAAS-SAS-CL-2ND,Resolved,AZ UK, SAS -   U
 INC2890948,Email server did not respond,AZTEC.GAP.PAAS-SAS-CL-2ND,Resolved,AZ Technology, SAS Network Issue
 INC2537942,Email server issue,AZTEC.GAP.PAAS-SAS-CL-2ND,Fixed,AZ UK, SAS Server Issue
 INC2871826,SAS Issue (Coronel Vera),AZTEC.GAP.PAAS-SAS-CL-2ND,"We have asked the user to contact the legba to get the required unix server and group access. As confirmed with the user, we are closing the ticket",AZ Germany, SAS Access Issue
-INC4511488,SAS Anwendungen - Informationen,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident description: SAS Anwendungen - Informationen
-Issue Type: SAS Other
-Resolution Steps: As confirmed by the user she has started to solve the problem with herTechB colleagues.User asked us to close the ticket",AZ Germany, SAS Access Issue
-INC4568772,Win10 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,"Desc:Win10 - SAS Anwendungen
-Type: Others
-Resoltion: Issue not related to SAS. Advices user to contact the form developer",AZ Germany, SAS Others
 INC3460913,issue with APC DM,AZTEC.GAP.PAAS-SAS-CL-2ND,"Dear colleagues:
 
 I tried it again and that worked properly, so thanks for your help and efforts
@@ -4492,7 +3973,7 @@ Hope this issue has been resolved and services are running fine and FM user also
 So we're closing this ticket.
 Thank you.
 Regards,
-D Srinivasulu",AZ France, SAS Linux Server
+D Srinivasulu",AZ France, SAS Service Requests
 INC2443716,Not able to open WEB REPORT ,AZTEC.GAP.SASFM-2ND,No action taken form our end. User confirmed that the reports are opening fine. And also confirmed to close the ticket.,AZ France,
 INC2505858,Error while opening reporting portal,AZTEC.GAP.PAAS-SAS-CL-2ND,"Dear Vinay,
 As per our call discussion that issue is no more exists and we're closing this ticket. We haven't done anything from our side.
@@ -4519,16 +4000,7 @@ INC3090350,SAS Guide message/fehlermeldung: StartEg funktioniert nicht mehr,AZTE
 The issue is resolved now. Please let us know if any concerns.
 
 Master ticket: INC3089592",AZ Germany, SAS Server Issue
-INC4723581,Win10 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,"Issue Description: SAS Enterprise Guide and the application does not connect to the APKV Rep Server
-Issue Type: SAS Server Issue
-Resolutions Steps: The issue was resolved by NAS team (INC4719837 P2). As of now we are closing the ticket.",AZ Germany, SAS Platform Access/Availability
 INC3060446,A lot of SGRID agents down on PSACH,AZTEC.GAP.PAAS-SAS-CL-2ND,We have started the agents and is closing the ticket on user confirmation,AZ Germany, SAS Server Issue
-INC3329595,Win10 - SAS Anwendungen - Verbindung zum BISFB Server konnte nicht hergestellt w,AZTEC.GAP.PAAS-SAS-CL-2ND,"Dear Team,
-Issue has been resolved after Spawner start up, We found Spawner in Defined state. Also user confirmed that he is able to connect SAS Eg.
-Thank you.
-Regards,
-D Srinivasul
-",AZ Germany, SAS Access Issue
 INC3007857,SAS Enterprise Guide - FM: Es ist ein unerwarteter Fehler aufgetreten,AZTEC.GAP.PAAS-SAS-CL-2ND,User confirmed that the issue is resolved and ticket can be closed (email attached).,AZ Germany, SAS Access Issue
 INC2966833,SAS Enterprise Guide - FM: Es ist ein unerwarteter Fehler aufgetreten,AZTEC.GAP.PAAS-SAS-CL-2ND,No update from User. Hence closing.,AZ Germany, SAS Others
 INC4720375,Error STP SASFIV @ PROD,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident Description:Error STP SASFIV @ PROD
@@ -4544,7 +4016,6 @@ The error is related to change CHG0120556. Due to big workload caused by applica
 ",AZ Germany, SAS Platform Access/Availability
 INC3705395,Project sasfiv@prod sas classic restart,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident type : Server issue
 Resolution: The link is working fine for the user now after restart of ObjectSpawner",AZ Germany, SAS Server Issue
-INC4566125,Win10 - SAS Anwendungen,AZTEC.GAP.PAAS-SAS-CL-2ND,INC4565991,AZ Germany, SAS Server Issue
 INC3881124,SAS Enterprise Guide - Aufruf nicht möglich,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident Description: SAS Enterprise Guide  was not installed in local laptop
 Incident Type: SAS Application
 Resolution Description: A  separate requested was created for re installing SAS enterprise guide in local laptop.
@@ -4613,7 +4084,7 @@ So we're closing this ticket.
 Thank you.
 Regards,
 D Srinivasulu
-",AZ France, SAS - Space Issue
+",AZ France,SAS Service Requests
 INC2573109,Delete a folder,AZTEC.GAP.PAAS-SAS-CL-2ND,User confirmed to close the ticket.,AZ France, SAS Others
 INC3937470,connection to AZFR INT is ko,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident Type : Access issue
 Resolution :The issue has been resolved after webex with the User. ",AZ France, SAS Access Issue
@@ -4697,7 +4168,7 @@ INC2877081,Restart CPU monitoring,AZTEC.GAP.PAAS-SAS-CL-2ND,"The issue was relat
 INC3287643,SR : storage adjustments,AZTEC.GAP.PAAS-SAS-CL-2ND,The request has been completed,AZ France, SAS Service Requests
 INC4540281,Email configuration TLS protocol,AZTEC.GAP.PAAS-SAS-CL-2ND,"Description: Email configuration TLS protocol
 Type: SR
-Resolution : Information provided",AZ Germany, sas configuration
+Resolution : Information provided",AZ Germany, SAS Backup
 INC2722040,SR : storage adjustment in INT & DEV,AZTEC.GAP.PAAS-SAS-CL-2ND,The space adjustments were done as requested.,AZ France, SAS Filesystem/Quota
 INC3263394,SAS Classic PaaS BIFI Platform: Issues with SAS 94 M6 Reporting Tools - Fixed,AZTEC.GAP.PAAS-SAS-CL-2ND,Issue resolved after restarting the AVC. Users were able to open with the saved profile ,AZ France, SAS AVC Client Issue
 INC2492168,Add Oracle connection ,AZTEC.GAP.PAAS-SAS-CL-2ND,The request has been completed.,AZ France, SAS Database
@@ -4710,7 +4181,6 @@ Thank you.
 Regards,
 D Srinivasulu",AZ Reinsurance, SAS Access Issue
 INC2984010,PROD COP (SLA13002),AZTEC.GAP.PAAS-SAS-CL-2ND,The request was completed,AZ France, SAS Server Issue
-INC2690596,SAS Anwendungen - Informationen,AZTEC.GAP.PAAS-SAS-CL-2ND,"The issue has been resolved, after manual installing SAS EG application on user system. (PFA mail confirmation)",AZ Germany, SAS Others
 INC4403047,Lost access to BIFI Tools for 3 users.,AZTEC.GAP.PAAS-SAS-CL-2ND,"Incident Description: Lost access to BIFI Tools for 3 users.
 Issue Type: SAS Acess Issue
 Resolution Steps: User followed the steps provided by us and the issue is resolved.User has confirmed the same over email.",AZ France, SAS Access Issue
@@ -4728,3 +4198,151 @@ User confirmed that he will raise a GIAM request and confirmed to close the tick
 INC2887515,SAS MIS10 Report issue ,AZTEC.GAP.PAAS-SAS-CL-2ND,"As the issue is with only one report (MIS 10) and the remaining reports are working fine.
 Advised user to contact the report developer on this issue. 
 ",AZ Reinsurance, SAS Others
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+INC3451809,SAS mem zu 4gb Erhöhern.,AZTEC.GAP.PAAS-SAS-CL-2ND,"Changes has been done as requested .
+
+Closing the incident after getting confirmation rom user.",,SAS Memory
+INC3451015,SAS mem zu 4gb Erhöhern.,AZTEC.GAP.PAAS-SAS-CL-2ND,"As per request changes has been applied .
+
+Closing the incident after confirming with user.",,SAS Memory
